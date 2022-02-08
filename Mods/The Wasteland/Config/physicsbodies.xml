@@ -1,0 +1,756 @@
+<configs> 
+	<append xpath="/bodies">		
+		<body name="Bandit_b">
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="Hips"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="0.75 0.39 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 -0.08"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="Hips/LeftUpLeg"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLowerLeg"/>
+				<property name="path" value="Hips/LeftUpLeg/LeftLeg"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="Hips/RightUpLeg"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLowerLeg"/>
+				<property name="path" value="Hips/RightUpLeg/RightLeg"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="Hips/Spine/Spine1/"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 0.36 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0.05 -0.08"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LArm"/>
+				<property name="path" value="Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLowerArm"/>
+				<property name="path" value="Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RArm"/>
+				<property name="path" value="Hips/Spine/Spine1/Spine2/RightShoulder/RightArm"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLowerArm"/>
+				<property name="path" value="Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Head"/>
+				<property name="path" value="Hips/Spine/Spine1/Spine2/Neck/Head"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="0.8 0.88 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0.02 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+		</body>
+		<body name="InfernalDog_b">
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigHub003Bone002"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigLLeg1"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigLLeg1/CATRigLLeg2"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigRLeg1"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigRLeg1/CATRigRLeg2"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1.9 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="-0.05 -0.044 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Head"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigSpine1 1/CATRigSpine2 1/CATRigHub005"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0.025 0.035 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigLArmCollarbone/CATRigLArm1"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigLArmCollarbone/CATRigLArm1/CATRigLArm2"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigRArmCollarbone/CATRigRArm1"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+		</body><!--
+		<body name="InfernalDog_b">
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigHub003Bone002"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="CATRigLLeg1"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="CATRigLLeg1/CATRigLLeg2"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="CATRigRLeg1"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="CATRigRLeg1/CATRigRLeg2"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1.9 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="-0.05 -0.044 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Head"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigSpine1 1/CATRigSpine2 1/CATRigHub005"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0.025 0.035 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LArm"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigLArmCollarbone/CATRigLArm1"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLowerArm"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigLArmCollarbone/CATRigLArm1/CATRigLArm2"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RArm"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigRArmCollarbone/CATRigRArm1"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLowerArm"/>
+				<property name="path" value="CATRigHub003Bone002/CATRigSpine1/CATRigSpine2/CATRigHub004/CATRigRArmCollarbone/CATRigRArm1/CATRigRArm2"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+		</body>-->
+		<body name="Scorpion_b">
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/Factice007/GIANT_SCORPION_LEG_L_3_A/GIANT_SCORPION_LEG_L_3_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/Factice007/GIANT_SCORPION_LEG_L_3_A/GIANT_SCORPION_LEG_L_3_B/GIANT_SCORPION_LEG_L_3_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/Factice008/GIANT_SCORPION_LEG_L_4_A/GIANT_SCORPION_LEG_L_4_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/Factice008/GIANT_SCORPION_LEG_L_4_A/GIANT_SCORPION_LEG_L_4_B/GIANT_SCORPION_LEG_L_4_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/Factice012/GIANT_SCORPION_LEG_R_3_A/GIANT_SCORPION_LEG_R_3_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/Factice012/GIANT_SCORPION_LEG_R_3_A/GIANT_SCORPION_LEG_R_3_B/GIANT_SCORPION_LEG_R_3_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/Factice013/GIANT_SCORPION_LEG_R_4_A/GIANT_SCORPION_LEG_R_4_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/Factice013/GIANT_SCORPION_LEG_R_4_A/GIANT_SCORPION_LEG_R_4_B/GIANT_SCORPION_LEG_R_4_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/GIANT_SCORPION_ABDOMEN_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1.9 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="-0.05 -0.044 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/GIANT_SCORPION_ABDOMEN_B/GIANT_SCORPION_ABDOMEN_C/GIANT_SCORPION_ABDOMEN_D"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1.9 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="-0.05 -0.044 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/GIANT_SCORPION_ABDOMEN_B/GIANT_SCORPION_ABDOMEN_C/GIANT_SCORPION_ABDOMEN_D/GIANT_SCORPION_TAIL_A/GIANT_SCORPION_TAIL_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1.9 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="-0.05 -0.044 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/GIANT_SCORPION_ABDOMEN_B/GIANT_SCORPION_ABDOMEN_C/GIANT_SCORPION_ABDOMEN_D/GIANT_SCORPION_TAIL_A/GIANT_SCORPION_TAIL_B/GIANT_SCORPION_TAIL_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1.9 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="-0.05 -0.044 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/GIANT_SCORPION_ABDOMEN_B/GIANT_SCORPION_ABDOMEN_C/GIANT_SCORPION_ABDOMEN_D/GIANT_SCORPION_TAIL_A/GIANT_SCORPION_TAIL_B/GIANT_SCORPION_TAIL_C/GIANT_SCORPION_TAIL_D"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1.9 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="-0.05 -0.044 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/GIANT_SCORPION_ABDOMEN_B/GIANT_SCORPION_ABDOMEN_C/GIANT_SCORPION_ABDOMEN_D/GIANT_SCORPION_TAIL_A/GIANT_SCORPION_TAIL_B/GIANT_SCORPION_TAIL_C/GIANT_SCORPION_TAIL_D/GIANT_SCORPION_TAIL_E"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1.9 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="-0.05 -0.044 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Body"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_ABDOMEN_A/GIANT_SCORPION_ABDOMEN_B/GIANT_SCORPION_ABDOMEN_C/GIANT_SCORPION_ABDOMEN_D/GIANT_SCORPION_TAIL_A/GIANT_SCORPION_TAIL_B/GIANT_SCORPION_TAIL_C/GIANT_SCORPION_TAIL_D/GIANT_SCORPION_TAIL_E/GIANT_SCORPION_STINGER"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1.9 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="-0.05 -0.044 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_Head"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0.025 0.035 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice005/GIANT_SCORPION_LEG_L_1_A/GIANT_SCORPION_LEG_L_1_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice005/GIANT_SCORPION_LEG_L_1_A/GIANT_SCORPION_LEG_L_1_B/GIANT_SCORPION_LEG_L_1_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice006/GIANT_SCORPION_LEG_L_2_A/GIANT_SCORPION_LEG_L_2_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice006/GIANT_SCORPION_LEG_L_2_A/GIANT_SCORPION_LEG_L_2_B/GIANT_SCORPION_LEG_L_2_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice010/GIANT_SCORPION_LEG_R_1_A/GIANT_SCORPION_LEG_R_1_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice010/GIANT_SCORPION_LEG_R_1_A/GIANT_SCORPION_LEG_R_1_B/GIANT_SCORPION_LEG_R_1_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice011/GIANT_SCORPION_LEG_R_2_A/GIANT_SCORPION_LEG_R_2_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLeg"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice011/GIANT_SCORPION_LEG_R_2_A/GIANT_SCORPION_LEG_R_2_B/GIANT_SCORPION_LEG_R_2_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0 0 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LArm"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice004/GIANT_SCORPION_CLAW_L_A/GIANT_SCORPION_CLAW_L_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0.025 0.035 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_LLowerArm"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice004/GIANT_SCORPION_CLAW_L_A/GIANT_SCORPION_CLAW_L_B/GIANT_SCORPION_CLAW_L_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0.025 0.035 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RArm"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice009/GIANT_SCORPION_CLAW_R_A/GIANT_SCORPION_CLAW_R_B"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0.025 0.035 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+			<collider>
+				<property name="tag" value="E_BP_RLowerArm"/>
+				<property name="path" value="GIANT_SCORPION_ROOT/GIANT_SCORPION_MAIN/GIANT_SCORPION_HEAD/Factice009/GIANT_SCORPION_CLAW_R_A/GIANT_SCORPION_CLAW_R_B/GIANT_SCORPION_CLAW_R_C"/>
+				<property name="collisionLayer" value="0"/>
+				<property name="ragdollLayer" value="0"/>
+				<property name="collisionScale" value="1 1 1"/>
+				<property name="ragdollScale" value="1 1 1"/>
+				<property name="collisionOffset" value="0.025 0.035 0"/>
+				<property name="ragdollOffset" value="0 0 0"/>
+				<property name="type" value="Detail"/>
+				<property name="flags" value="collision;ragdoll"/>
+			</collider>
+		</body>
+	</append>
+</configs>

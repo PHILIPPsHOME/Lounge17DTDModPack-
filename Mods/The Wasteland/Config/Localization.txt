@@ -1,0 +1,2172 @@
+Key,English
+drinkNukaCola,Nuka Cola
+drinkNukaColaDesc,The wastelander's favorite beverage! Helps recover stamina quicker and restore a small amount of max health and stamina. The small trace of radiation also allow for a slight movement speed boost for a limited time!
+drinkNukaCherry,Nuka Cherry
+drinkNukaCherryDesc,Mmm...Nuka Cherry! Energizes you and helps you hit harder. Also restore a decent amount of max health and stamina. The traces of radiation also allow for a moderate movement speed boost for a limited time!
+drinkNukaQuantum,Nuka Quantum
+drinkNukaQuantumDesc,Nuka Quantum is totally safe! Boost yourself for a limited time but beware possible side effects!
+drinkNukaQuartz,Nuka Quartz
+drinkNukaQuartzDesc,Doesn't look too good but beggars can't be choosers! Damage resistance is increased and health will regenerate but it does make you queasy!
+drinkSunsetSarsaparilla,Sunset Sarsaparilla
+drinkSunsetSarsaparillaDesc,Probably not the freshest but it's still better than water. Helps recover stamina quicker and restore a small amount of health and stamina.
+drinkSunsetSarsaparillaStar,Sunset Sarsaparilla
+drinkSunsetSarsaparillaStarDesc,Probably not the freshest but it's still better than water. Helps recover stamina quicker and restore a small amount of health and stamina.
+drinkJarSnowberryJuice,Snowberry Juice
+drinkJarSnowberryJuiceDesc,"Quench your thirst with this tasty drink!"
+drinkSnowberrySmoothie,Snowberry Smoothie
+drinkSnowberrySmoothieDesc,"This drink will keep you cool in the worst heat."
+resourceNukaBaseIngredients,Nuka Base Ingredients
+resourceNukaBaseIngredientsDesc,Base ingredients used to brew different Nuka flavors.
+bookNukaRecipes,Nuka Recipes
+bookNukaRecipesDesc,This will teach you how to brew multiple flavors of Nuka Cola!
+thrownNukaNade,Nuka Nade (Ammo)
+thrownNukaNadeDesc,Too scared to drink that Quantum? May as well make a boom can out of it then!
+bookWorkingStiffWeekly,Working Stiff Weekly
+bookWorkingStiffWeeklyDesc,"This will teach you how to forge the parts needed to craft most weapons and tools."
+foodRawScorpionMeat,Scorpion Meat
+foodRawScorpionMeatDesc,A raw piece of mutant scorpion. Probably not a good idea to eat this.
+foodRawScorpFlyMeat,Scorpionfly Meat
+foodRawScorpFlyMeatDesc,A raw hunk of mutant scorpionfly. Probably not a good idea to eat this.
+foodRawMosqMeat,Mosquito Meat
+foodRawMosqMeatDesc,A raw cut of mutant mosquito. Probably not a good idea to eat this.
+foodScorpionEgg,Scorpion Egg
+foodScorpionEggDesc,An intact scorpion egg.
+foodRawHunterMeat,Hunter Meat
+foodRawHunterMeatDesc,A chunk of raw hunter meat. Probably not a good idea to eat this.
+foodHunterEgg,Hunter Egg
+foodHunterEggDesc,Small egg from a hunter.
+foodRawMutantHoundMeat,Hound Meat
+foodRawMutantHoundMeatDesc,A piece of raw mutant hound meat. Probably not a good idea to eat this.
+resourceVenomGland,Venom Gland
+resourceVenomGlandDesc,A venom gland from a wild creature.
+resourceMosqProboscis,Mosquito Proboscis
+resourceMosqProboscisDesc,A proboscis from a wild creature.
+resourceBloodSample,Blood Sample
+resourceBloodSampleDesc,A usable blood sample from a wild creature.
+bookWastelandDelicacies,Wasteland Delicacies
+bookWastelandDelicaciesDesc,"This will teach you how to use some of the more...unappetizing forms of food from out in the wasteland to make some of the finest roadkill you'll ever eat!"
+foodHoundBits,Hound Bits
+foodHoundBitsDesc,"Must be really hard up, huh? Seems like it's still growling..."
+foodScorpionBits,Scorpion Bits
+foodScorpionBitsDesc,"Cooked almost beyond recognition, these scorpions bits will keep you from starving."
+foodScorpflyBits,Scorpionfly Bits
+foodScorpflyBitsDesc,"Burnt, bland, rough cuts of scorpionfly."
+foodHunterBits,Hunter Bits
+foodHunterBitsDesc,"Some rough pieces of hunter meat. Not that healthy, but it'll stop those stomach growls."
+foodMosqBits,Mosquito Bits
+foodMosqBitsDesc,"Some chunks of mutant mosquito. Just don't look at it before you eat it."
+foodScorpionEggBoiled,Boiled Scorpion Egg
+foodScorpionEggBoiledDesc,"Just a simple, boiled scorpion egg. It's better than nothing."
+foodHunterEggBoiled,Boiled Hunter Egg
+foodHunterEggBoiledDesc,"Could've probably made something better, but it'll keep you alive...ish."
+foodGrilledHoundChops,Grilled Hound Chops
+foodGrilledHoundChopsDesc,"Probably not your preferred food, but who's left to judge?"
+foodHunterScrambledEgg,Scrambled Hunter Eggs
+foodHunterScrambledEggDesc,"A couple hunter eggs, nice and scrambled."
+foodScorpionOmelette,Scorpion Omelette
+foodScorpionOmeletteDesc,"A fluffy omelette made with scorpion eggs and some fresh mushrooms."
+foodScorpflyFilet,Scorpionfly Filet
+foodScorpflyFiletDesc,"A better than expected filet of cooked scorpionfly."
+foodHunterSteak,Hunter Steak
+foodHunterSteakDesc,"A nice cut of hunter meat, with the radiation grilled out."
+foodScorpionFilet,Scorpion Filet
+foodScorpionFiletDesc,"A premuim cut of scorpion meat, cooked to perfection."
+foodMosqSteak,Mosquito Steak
+foodMosqSteakDesc,"Don't mind how it looks, it's actually not bad."
+foodFullCourse,Full Course Meal
+foodFullCourseDesc,"Cooked scorpion and hunter steaks, with their eggs on the side. This is the ultimate meal!"
+foodSuperHoboStew,Super Hobo Stew
+foodSuperHoboStewDesc,"Hobo stew, but better!"
+foodSuperVegetableStew,Super Vegetable Stew
+foodSuperVegetableStewDesc,"Vegetable stew, now with genetically modified goodness!"
+foodSnowberryPie,Snowberry Pie
+foodSnowberryPieDesc,"Grandma would be proud of this delicacy!"
+
+VaultDoorKey,Overseer Office Key
+VaultDoorKeyDesc,Keycard needed to unlock the Overseer's hidden exit door. Right click on the door with this keycard equipped to unlock it. If the door is damaged it will have to be repaired for the key to work.
+VaultDoorKey2,Containment Room Key
+VaultDoorKey2Desc,Keycard needed to unlock the Containment Room door. Right click on the door with this keycard equipped to unlock it. If the door is damaged it will have to be repaired for the key to work.
+OVDeskKey,Overseer Desk Key
+OVDeskKeyDesc,Keycard needed to unlock the Overseer's hidden exit door. Right click on the door with this keycard equipped to unlock it. If the desk is damaged it will have to be repaired for the key to work.
+OVExitKey,Overseer Exit Key
+OVExitKeyDesc,Keycard needed to unlock the Overseer's hidden exit door. Right click on the door with this keycard equipped to unlock it. If the door is damaged it will have to be repaired for the key to work.
+
+VaultDoorKey_b,Overseer Office Key (B)
+VaultDoorKey_bDesc,Keycard needed to unlock the Overseer's hidden exit door. Right click on the door with this keycard equipped to unlock it.
+VaultDoorKey2_b,Containment Room Key (B)
+VaultDoorKey2_bDesc,Keycard needed to unlock the Containment Room door. Right click on the door with this keycard equipped to unlock it.
+OVDeskKey_b,Overseer Desk Key (B)
+OVDeskKey_bDesc,Keycard needed to unlock the Overseer's hidden exit door. Right click on the door with this keycard equipped to unlock it.
+OVExitKey_b,Overseer Exit Key (B)
+OVExitKey_bDesc,Keycard needed to unlock the Overseer's hidden exit door. Right click on the door with this keycard equipped to unlock it.
+
+NukaColaLight,Nuka Cola
+NukaQuantumLight,Nuka Quantum
+NukaQuartzLight,Nuka Quartz
+NukaCherryLight,Nuka Cherry
+NukaTruck,Nuka Truck
+
+cntVTstoragePlayer,Vault Tec Container
+cntVTstoragePlayerDesc,Storage container.
+cntVTstorageSecurePlayer,Vault Tec Container
+cntVTstorageSecurePlayerDesc,Storage container.
+cntVTstorageLoot,Vault Tec Container
+cntVTstorageLootDesc,Storage container.
+cntVTstorageLootInsecure,Vault Tec Container
+cntVTstorageLootInsecureDesc,Storage container.
+cntVTstorageTallPlayer,Vault Tec Container
+cntVTstorageTallPlayerDesc,Storage container.
+cntVTstorageTallSecurePlayer,Vault Tec Container
+cntVTstorageTallSecurePlayerDesc,Storage container.
+cntVTstorageTallLoot,Vault Tec Container
+cntVTstorageTallLootDesc,Storage container.
+cntVTstorageTallLootInsecure,Vault Tec Container
+cntVTstorageTallLootInsecureDesc,Storage container.
+cntNukaCrateS0,Sealed Nuka Crate
+cntNukaCrateS1,Sealed Nuka Crate
+cntNukaCrateS2,Sealed Nuka Crate
+cntNukaCrate0,Nuka Crate
+cntNukaCrate1,Nuka Crate
+cntNukaCrate2,Nuka Crate
+cntNukaSafeSecure,Secure Nuka Safe
+cntNukaSafeSecureDesc,Nuka Safe.
+cntNukaSafe,Nuka Safe
+cntNukaSafeDesc,Nuka Safe.
+cntNukaVendingMachineBroken,Broken Nuka Vending Machine
+cntNukaVendingMachineBrokenDesc,Broken Nuka Vending Machine.
+cntNukaVendingMachine,Nuka Vending Machine
+cntNukaVendingMachineDesc,Working Nuka Vending Machine.
+cntSSVendingMachineBroken,Broken Sunset Sarsaparilla Vending Machine
+cntSSVendingMachineBrokenDesc,Broken Sunset Sarsaparilla Vending Machine.
+cntSSVendingMachine,Sunset Sarsaparilla Vending Machine
+cntSSVendingMachineDesc,Working Sunset Sarsaparilla Vending Machine.
+cntAmmoBox,Ammo Box
+cntAmmoBoxDesc,Military ammo storage box.
+cntAmmoBoxPlayer,Ammo Box
+cntAmmoBoxPlayerDesc,Military ammo storage box.
+
+Terminal,Terminal
+TerminalDesc,Old terminal that surprisingly still works.
+Terminaloff,Broken Terminal
+TerminaloffDesc,Old terminal that no longer works.
+Telephone,Old Telephone
+TelephoneDesc,"Old telephone. Doesn't really matter if it works now, does it?"
+Telephone2,Old Telephone
+Telephone2Desc,"Old telephone. Doesn't really matter if it works now, does it?"
+OVglass,OV Glass
+OVglassDesc,Overseer office glass.
+OVexitdoor,Locked Door
+OVexitdoorDesc,OV Exit Door.
+OVexitdoorunlocked,Unlocked Door
+OVexitdoorunlockedDesc,OV Exit Door.
+VaultDoor,Vault Door
+VaultDoorDesc,Main Vault Door.
+VaultMetalDoorBroken,Broken Vault Door
+VaultMetalDoorBrokenDesc,Broken Vault Door.
+VaultMetalDoorLocked,Vault Door
+VaultMetalDoorLockedDesc,Interior Vault Door.
+VaultMetalDoorUnlocked,Vault Door
+VaultMetalDoorUnlockedDesc,Interior Vault Door.
+VaultMetalDoorSmall,Vault Door
+VaultMetalDoorSmallDesc,Small interior Vault Door.
+VaultMetalDoorSmallLocked,Vault Door
+VaultMetalDoorSmallLockedDesc,Small interior Vault Door.
+Bookcase1case
+Bookcase1Desc,Old bookcase.
+Bookcase2case
+Bookcase2Desc,Old bookcase.
+Bookcase3case
+Bookcase3Desc,Old bookcase.
+BottleCarrierEmpty,Bottle Carrier
+BottleCarrierEmptyDesc,Old crate for carrying bottles.
+BottleCarrier,Bottle Carrier
+BottleCarrierDesc,Old crate for carrying bottles.
+Boxes1,Old Boxes
+Boxes1Desc,Old boxes.
+Boxes2,Old Boxes
+Boxes2Desc,Old boxes.
+Boxes3,Old Boxes
+Boxes3Desc,Old boxes.
+Boxes4,Old Boxes
+Boxes4Desc,Old boxes.
+Boxes5,Old Boxes
+Boxes5Desc,Old boxes.
+Boxes6,Old Boxes
+Boxes6Desc,Old boxes.
+Boxes7,Old Boxes
+Boxes7Desc,Old boxes.
+Bunkbed1,Old Bunkbed
+Bunkbed1Desc,Old bunkbed.
+Case1,Case
+Case1Desc,Case.
+Case2,Case
+Case2Desc,Case.
+Chair1,Old Chair
+Chair1Desc,Old chair.
+Chair2,Old Retro Chair
+Chair2Desc,Old chair.
+Cistern1,Old Cistern
+Cistern1Desc,Old cistern.
+Curtain1,Old Curtain
+Curtain1Desc,Old curtain.
+Desk1,Old Desk
+Desk1Desc,Old desk.
+Dresser1,Old Dresser
+Dresser1Desc,Old dresser.
+Dresser2,Old Dresser
+Dresser2Desc,Old dresser.
+Dresser3,Old Dresser
+Dresser3Desc,Old dresser.
+Fatman_b,Fat Man
+Fatman_bDesc,Block that will give a Fat Man weapon when picked up.
+ammoNuke_b,Nuke
+ammoNuke_bDesc,Block that will give a Nuke when picked up.
+Guitar1,Old Guitar
+Guitar1Desc,Old guitar.
+IndustrialFan,Industrial Fan
+IndustrialFanDesc,Large industrial fan.
+Lamp1,Old Lamp
+Lamp1Desc,Old lamp.
+MetalBox,Metal Box
+MetalBoxDesc,Old metal box.
+MetalBox2,Metal Box
+MetalBox2Desc,Old metal box.
+MetalContainer,Metal Box
+MetalContainerDesc,Old metal box.
+MetalContainer2,Metal Box
+MetalContainer2Desc,Old metal box.
+MetalContainer3,Metal Container
+MetalContainer3Desc,Old metal container.
+MetalContainer4,Metal Container
+MetalContainer4Desc,Old metal container.
+MetalShelves,Metal Shelves
+MetalShelvesDesc,Old metal shelves.
+MetalShelves2,Metal Shelves
+MetalShelves2Desc,Old metal shelves.
+NCRbobble,NCR Bobblehead
+NCRbobbleDesc,Old NCR bobblehead. Might be worth something.
+OldRadio,Old Radio
+OldRadioDesc,Old Radio. Doesn't appear to work anymore.
+OldSafeClosedInsecure,Old Safe (Unlocked Loot)
+OldSafeClosedInsecureDesc,Old safe.
+OldSafeClosedPlayer,Old Safe
+OldSafeClosedPlayerDesc,Old safe.
+OldSafeClosed,Old Safe (Locked Loot)
+OldSafeClosedDesc,Old safe.
+OldSafe,Old Safe
+OldSafeDesc,Old safe.
+OldServer1,Old Server
+OldServer1Desc,Old server.
+OldServer2,Old Server
+OldServer2Desc,Old server.
+OldServer3,Old Server
+OldServer3Desc,Old server.
+OldTV,Old TV
+OldTVDesc,Old tv.
+OldTVon,Old TV
+OldTVonDesc,Old tv.
+PipBoy,PipBoy 3000
+PipBoyDesc,A surprisingly still functional PipBoy.
+Rug1,Old Rug
+Rug1Desc,Old rug.
+Server1,Old Server
+Server1Desc,Old server.
+Server2,Old Server
+Server2Desc,Old server.
+Server3,Old Server
+Server3Desc,Old server.
+ServerEmpty,Old Empty Server
+ServerEmptyDesc,Old empty server.
+ServerFull,Old Full Server
+ServerFullDesc,Old full server.
+Toolbox1,Old Toolbox
+Toolbox1Desc,Old toolbox.
+Transformer1,Old Transformer
+Transformer1Desc,Old transformer.
+Turbine1,Old Turbine
+Turbine1Desc,Old turbine.
+VaultBoycutout,Vault Boy Cutout
+VaultBoycutoutDesc,Vault Boy Cutout.
+Vent1,Old Vent
+Vent1Desc,Old vent.
+Vent2,Old Vent (offset)
+Vent2Desc,Old vent.
+WarehouseCrates,Old Warehouse Crates
+WarehouseCratesDesc,Old warehouse crates.
+WeaponCase,Weapon Case
+WeaponCaseDesc,Locked weapon case.
+WeaponCaseInsecure,Weapon Case
+WeaponCaseInsecureDesc,Weapon case.
+WeaponCasePlayer,Weapon Case
+WeaponCasePlayerDesc,Weapon case for player storage.
+OVglass,Overseer Glass
+OVglassDesc,Glass for the OV office.
+Grid,Power Grid Display
+GridDesc,Power Grid Display for the OV office.
+DeskRound,Overseer's Desk
+DeskRoundDesc,Overseer's Desk.
+DeskRound2,Overseer's Desk
+DeskRound2Desc,Overseer's Desk.
+BloodSplatter1,Blood Splatter
+BloodSplatter2,Blood Splatter
+BloodSplatter3,Blood Splatter
+BloodSplatter4,Blood Splatter
+BloodSplatter5,Blood Splatter
+BloodSplatter6,Blood Splatter
+BloodSplatter7,Blood Splatter
+chainLink_b,Chainlink Fence
+chainLink_bDesc,Regular fence with advanced rotations.
+ConsoleWall,Wall Console
+ConsoleWallDesc,Wall Console.
+Door1L,Metal Door (L)
+Door1LDesc,Heavy Metal Door.
+Door1R,Metal Door (R)
+Door1RDesc,Heavy Metal Door.
+Door1L2,Metal Door (L)
+Door1L2Desc,Heavy Metal Door.
+Door1R2,Metal Door (R)
+Door1R2Desc,Heavy Metal Door.
+Door2L,Metal Door (L)
+Door2LDesc,Heavy Metal Door.
+Door2R,Metal Door (R)
+Door2RDesc,Heavy Metal Door.
+Door2L2,Metal Door (L)
+Door2L2Desc,Heavy Metal Door.
+Door2R2,Metal Door (R)
+Door2R2Desc,Heavy Metal Door.
+Door3L,Security Door (L)
+Door3LDesc,Heavy Security Door.
+Door3R,Security Door (R)
+Door3RDesc,Heavy Security Door.
+Door3L2,Security Door (L)
+Door3L2Desc,Heavy Security Door.
+Door3R2,Security Door (R)
+Door3R2Desc,Heavy Security Door.
+Door4L,Security Door (L)
+Door4LDesc,Heavy Security Door.
+Door4R,Security Door (R)
+Door4RDesc,Heavy Security Door.
+Door4L2,Security Door (L)
+Door4L2Desc,Heavy Security Door.
+Door4R2,Security Door (R)
+Door4R2Desc,Heavy Security Door.
+rollUpDoor3x3WhitePoweredWL,"White Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3BrownPoweredWL,"Brown Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3RedPoweredWL,"Red Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3OrangePoweredWL,"Orange Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3YellowPoweredWL,"Yellow Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3GreenPoweredWL,"Green Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3BluePoweredWL,"Blue Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3PurplePoweredWL,"Purple Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3GreyPoweredWL,"Grey Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3BlackPoweredWL,"Black Roll Up Door 3x3 (Powered)"
+rollUpDoor3x3PinkPoweredWL,"Pink Roll Up Door 3x3 (Powered)"
+rollUpDoor5x4WhitePoweredWL,"White Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4BrownPoweredWL,"Brown Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4RedPoweredWL,"Red Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4OrangePoweredWL,"Orange Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4YellowPoweredWL,"Yellow Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4GreenPoweredWL,"Green Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4BluePoweredWL,"Blue Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4PurplePoweredWL,"Purple Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4GreyPoweredWL,"Grey Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4BlackPoweredWL,"Black Roll Up Door 5x4 (Powered)"
+rollUpDoor5x4PinkPoweredWL,"Pink Roll Up Door 5x4 (Powered)"
+rollUpDoor7x4WhitePoweredWL,"White Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4BrownPoweredWL,"Brown Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4RedPoweredWL,"Red Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4OrangePoweredWL,"Orange Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4YellowPoweredWL,"Yellow Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4GreenPoweredWL,"Green Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4BluePoweredWL,"Blue Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4PurplePoweredWL,"Purple Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4GreyPoweredWL,"Grey Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4BlackPoweredWL,"Black Roll Up Door 7x4 (Powered)"
+rollUpDoor7x4PinkPoweredWL,"Pink Roll Up Door 7x4 (Powered)"
+rollUpDoor3x3PoweredWLVariantHelper,Roll Up Door 3x3 (Powered)
+rollUpDoor5x4PoweredWLVariantHelper,Roll Up Door 5x4 (Powered)
+rollUpDoor7x4PoweredWLVariantHelper,Roll Up Door 7x4 (Powered)
+JBWireless,Fusebox (Wireless)
+JBWirelessDesc,"This fusebox acts like a relay, and hides the wires to keep things neat."
+JBWireless2,Electrical Box (Wireless)
+JBWireless2Desc,"This electrical box acts like a relay, and hides the wires to keep things neat."
+EspressoMachine,Espresso
+EspressoMachineDesc,Heavy Security Door.
+MedicalDivider,Medical Divider
+MedicalDividerDesc,Medical Divider.
+MetalDrawer1,Metal Drawer
+MetalDrawer1Desc,Old metal drawer.
+MetalDrawer2,Metal Drawer
+MetalDrawer2Desc,Old metal drawer.
+Microscope,Microscope
+MicroscopeDesc,An old icroscope.
+OldControlPanel,Old Control Panel
+OldControlPanelDesc,Old control panel.
+OldProjector,Old Projector
+OldProjectorDesc,Old projector.
+Stepladder,Stepladder
+StepladderDesc,Used stepladder.
+WelcomeMat,Welcome Mat
+WelcomeMatDesc,Welcome Mat.
+windowStoreThreeSidedBulletproofCTR,Bulletproof Window
+windowStoreThreeSidedBulletproofCTRDesc,Three-sided centered bulletproof window.
+windowStoreTwoSidedBulletproofCTR,Bulletproof Window
+windowStoreTwoSidedBulletproofCTRDesc,Two-sided centered bulletproof window.
+windowStoreThreeSidedCTR,Window Frame
+windowStoreThreeSidedCTRDesc,Three-sided centered window frame.
+windowStoreTwoSidedCTR,Window Frame
+windowStoreTwoSidedCTRDesc,Two-sided centered window frame.
+
+cntAmb1,Old Wrecked Ambulance
+cntAmb1Desc,Old broken down and abandoned vehicle.
+cntbCar1,Old Burned Car
+cntbCar1Desc,Old burned abandoned vehicle.
+cntbCar2,Old Burned Car
+cntbCar2Desc,Old burned abandoned vehicle.
+cntbCar3,Old Burned Car
+cntbCar3Desc,Old burned abandoned vehicle.
+cntbCar4,Old Burned Car
+cntbCar4Desc,Old burned abandoned vehicle.
+cntbCar5,Old Burned Car
+cntbCar5Desc,Old burned abandoned vehicle.
+cntbCar6,Old Burned Car
+cntbCar6Desc,Old burned abandoned vehicle.
+cntbCar7,Old Burned Car
+cntbCar7Desc,Old burned abandoned vehicle.
+cntbCar8,Old Burned Car
+cntbCar8Desc,Old burned abandoned vehicle.
+cntbCar9,Old Burned Car
+cntbCar9Desc,Old burned abandoned vehicle.
+cntCar1,Old Car
+cntCar1Desc,Old abandoned vehicle.
+cntCar2,Old Car
+cntCar2Desc,Old abandoned vehicle.
+cntCar3,Old Car
+cntCar3Desc,Old abandoned vehicle.
+cntCar4,Old Car
+cntCar4Desc,Old abandoned vehicle.
+cntCar5,Old Car
+cntCar5Desc,Old abandoned vehicle.
+cntCar6,Old Car
+cntCar6Desc,Old abandoned vehicle.
+cntCar7,Old Car
+cntCar7Desc,Old abandoned vehicle.
+cntCar7_2,Old Car
+cntCar7_2Desc,Old abandoned vehicle.
+cntCar7_3,Old Car
+cntCar7_3Desc,Old abandoned vehicle.
+cntCar8,Old Car
+cntCar8Desc,Old abandoned vehicle.
+cntCar8_2,Old Car
+cntCar8_2Desc,Old abandoned vehicle.
+cntCar8_3,Old Car
+cntCar8_3Desc,Old abandoned vehicle.
+cntHatchback1,Old Car
+cntHatchback1Desc,Old abandoned vehicle.
+cntLada1,Old Car
+cntLada1Desc,Old abandoned vehicle.
+cntRV1,Old RV
+cntRV1Desc,Old abandoned vehicle.
+cntSUV1,Old SUV
+cntSUV1Desc,Old abandoned vehicle.
+cntSUV1_2,Old SUV
+cntSUV1_2Desc,Old abandoned vehicle.
+cntSUV1_3,Old SUV
+cntSUV1_3Desc,Old abandoned vehicle.
+cntTruck1,Old Truck
+cntTruck1Desc,Old abandoned vehicle.
+cntTruck2,Old Truck
+cntTruck2Desc,Old abandoned vehicle.
+cntVan,Old Van
+cntVanDesc,Old abandoned vehicle.
+cntVan1,Old Van
+cntVan1Desc,Old abandoned vehicle.
+cntVan2_1,Old Van
+cntVan2_1Desc,Old abandoned vehicle.
+cntVan2_2,Old Van
+cntVan2_2Desc,Old abandoned vehicle.
+cntVan2_3,Old Van
+cntVan2_3Desc,Old abandoned vehicle.
+cntWagon1,Old Station Wagon
+cntWagon1Desc,Old abandoned vehicle.
+cntZuk1,Old Van
+cntZuk1Desc,Old abandoned vehicle.
+
+mineBottlecapMine,Bottlecap Mine (Ammo)
+mineBottlecapMineDesc,Homemade mine using an old lunchbox and some bottlecaps.
+mineBottlecapMine,Bottlecap Mine
+cntLunchbox,Old Lunchbox
+cntLunchboxDesc,Some old lunchbox. Might be useful for something...
+resourceBottlecaps,Bottlecaps
+resourceBottlecapsDesc,Bottlecaps left over from various Nuka Colas. Might be useful for something...
+resourceBottlecapStar,Sunset Sarsaparilla Star Bottlecap
+resourceBottlecapStarDesc,Very rare Sunset Sarsaparilla cap. Probably worth some coin or collect 100 and craft a reward...
+drugRadBGone,Rad-B-Gone
+drugRadBGoneDesc,Provides moderate relief from radiation poisoning.
+drugRadZ,Rad Z
+drugRadZDesc,Provides 50% chance on ignoring radiation poisoning. Take 50% less damage from radiation emitting sources.
+drugAntivenom,Antivenom
+drugAntivenomDesc,Stops any current venom debuffs and prevents any new ones.
+drugAddFree,Add-Free
+drugAddFreeDesc,Add-Free will cure any drug addiction. Usually takes a bit of time to kick in.
+drugBeZerk,BeZerk
+drugBeZerkDesc,BeZerk increases damage output by 25% and reduces incoming damage by 25%.
+drugBraintats,Braintats
+drugBraintatsDesc,Braintats raise your Intellect and Perception by 2 levels.
+drugBuffin,Buffin
+drugBuffinDesc,Buffin raises your Strength and Fortitude by 2 levels.
+drugCalmZ,Calm-Z
+drugCalmZDesc,"Calm-Z raises your Perception and Agility by 3 levels, and also increase sneak damage."
+drugHGL,Happy-Go-Lucky
+drugHGLDesc,Happy-Go-Lucky raises your Luck by 3 levels.
+drugMedZ,Med-Z
+drugMedZDesc,Med-Z reduces damage taken by 30%.
+drugVitaminsDesc,"These vitamins cure Fatigue and prevent you from catching ailments like Infection, Dysentery or Fatigue. They also speed up recovery of colds and pneumonia, and prevent you from getting sick in the first place."
+drugHerbalAntibioticsDesc,Herbal Antibiotics can cure infections and help prevent or cure sicknesses like colds and pneumonia.\n\nCan be crafted in a cooking pot at a campfire.
+drugAntibioticsDesc,Antibiotics can cure infections and help prevent or cure sicknesses like colds and pneumonia.\n\nCan be crafted in a beaker at a campfire.
+
+resourceNuclearMaterials,Nuclear Material
+resourceNuclearMaterialsDesc,Probably shouldn't lick it...
+drugAntivenomSchematic,Antivenom Schematic
+drugRadBGoneSchematic,Rad-B-Gone Schematic
+drugRadZSchematic,Rad Z Schematic
+foodSnowberryPieSchematic,Snowberry Pie Schematic
+foodSuperHoboStewSchematic,Super Hobo Stew Schematic
+foodSuperVegetableStewSchematic,Super Vegetable Stew Schematic
+drinkSnowberrySmoothieSchematic,Snowberry Smoothie Schematic
+plantedSnowberry1Schematic,Snowberry (Seed) Recipe
+
+gun10mmPistol,10mm Pistol
+gun10mmPistolDesc,Civilian pistol. Slightly stronger than regular 9mm.
+gun10mmRev,10mm Revolver
+gun10mmRevDesc,Civilian revolver. Slightly stronger than regular 9mm. 6 round capacity with a bit more stopping power than the 10mm Pistol.
+gun10mmSMG,10mm SMG
+gun10mmSMGDesc,Civilian submachine gun. Slightly stronger than regular 9mm. High capacity magazine.
+gunLaserPistolScrap,Scrap Laser Pistol
+gunLaserPistolScrapDesc,Homemade laser weapon. Looks...safe. Crafting unlocked and damage scales with the Advanced Engineering perk.
+gunLaserPistol,Laser Pistol
+gunLaserPistolDesc,Experimental military-tech. Scales with the Advanced Engineering perk.
+gunLaserRifle,Laser Rifle
+gunLaserRifleDesc,Experimental military-tech. Scales with the Advanced Engineering perk.
+gunLaserShotgun,Laser Shotgun
+gunLaserShotgunDesc,Experimental military-tech. Scales with the Advanced Engineering perk.
+gunPlasmaPistol,Plasma Pistol
+gunPlasmaPistolDesc,Experimental military-tech. Scales with the Advanced Engineering perk.
+gunPlasmaRifle,Plasma Rifle
+gunPlasmaRifleDesc,Experimental military-tech. Scales with the Advanced Engineering perk.
+gunFlareGun,Flare Gun
+gunFlareGunDesc,Emergency flare gun. Can be used to show your location to others or to simply provide some light.
+gunPipePistol,Pipe Pistol
+gunPipePistolDesc,Weak homemade pistol. Uses 9mm. Low durability. Can break and disappear!
+gunPipeRifle,Pipe Rifle
+gunPipeRifleDesc,Weak homemade rifle. Uses 9mm. Low durability. Can break and disappear!
+gunPipeShotgunSMSB,Short Pipe Shotgun
+gunPipeShotgunSMSBDesc,Homemade shotgun. A bit unwieldy. Short range and low durability. Can break and disappear!
+gunPipeShotgunEMSB,Short Pipe Shotgun (Extended Mag)
+gunPipeShotgunEMSBDesc,Homemade shotgun. A bit unwieldy. Short range and low durability. Custom cylinder mag allows for 4 shots before reloading. Can break and disappear!
+gunTripleBarrelShotgun,Triple Barrel Shotgun
+gunTripleBarrelShotgunDesc,Custom-made triple barrel shotgun.
+gunHenryShotgun,Henry Shotgun
+gunHenryShotgunDesc,"An old, single-shot shotgun."
+gunAntiqueShotgun,Antique Shotgun
+gunAntiqueShotgunDesc,"Custom-made, single-shot shotgun."
+gunCombatShotgun,Combat Shotgun
+gunCombatShotgunDesc,Military tier shotgun.
+gunHeavySniper,Heavy Sniper
+gunHeavySniperDesc,Long range sniper rifle.
+gunServiceRifle,Service Rifle
+gunServiceRifleDesc,Standard edition infantry service rifle.
+gunLAR,Lever Action Rifle
+gunLARDesc,.44 Magnum and lever action. What more could you want?
+gunRailwayRifle,Railway Rifle
+gunRailwayRifleDesc,Custom made rifle that launches rail spikes. Fairly low durability due to the force of firing it.
+gunFatMan,Fat Man
+gunFatManDesc,Left over military launcher that makes use of any mini nukes you can find. Can maybe use some other round object as ammo if you find the right one...
+gunIncinerator,Incinerator
+gunIncineratorDesc,Semi-auto molotovs!
+gunMiniG,Minigun
+gunMiniGDesc,"Old, well-used minigun. Not the most modern tech, but will certainly still mow down anything in front of it."
+gunBAR1,Browning Automatic Rifle
+gunBAR1Desc,"An old relic of a gun."
+gunSCAR,SCAR Assault Rifle
+gunSCARDesc,"Military-issue assault rifle."
+gunm79,M-79 Grenade Launcher
+gunm79Desc,"Single-fire 40mm grenade launcher. Has AP, HE, and Smoke rounds"
+gunHarpoonGun,Harpoon Gun
+gunHarpoonGunDesc,"Well-used, hacked together harpoon gun. Scales with the Advanced Engineering perk."
+gun1911apoc,Old M1911
+gun1911apocDesc,"Looks like this thing has seen better days. Maybe it'll fire and not just blow your hand off..."
+gun1911worn,Worn M1911
+gun1911wornDesc,"Definitely had a few rounds ran through it. But...2 WORLD WARS!!!"
+gunG19,G19 Pistol
+gunG19Desc,"A well maintained 9mm pistol."
+gunMicroRoni,Micro Roni
+gunMicroRoniDesc,"A G19 converted into a PDW style weapon."
+gun1921Thompson,M1921 Thompson
+gun1921ThompsonDesc,"If it could handle gangsters, it'll handle those zeds."
+gunVectorSMG,Vector SMG
+gunVectorSMGDesc,"Now you can go all Spec Ops on those zeds. Unlocked by schematic or Gunslinger 5."
+gunCrossbowSemi,Semi-Auto Crossbow
+gunCrossbowSemiDesc,Custom made crossbow that can fire several bolts before reloading.
+
+ammo40mmHE,40mm HE Grenade (Ammo)
+ammo40mmHEDesc,High-explosive 40mm grenade used in the M-79 launcher.
+ammo40mmSmoke,40mm Smoke Grenade(Ammo)
+ammo40mmSmokeDesc,Smoke 40mm grenade used in the M-79 launcher.
+ammo40mmAP,40mm AP Grenade (Ammo)
+ammo40mmAPDesc,"AP 40mm grenade used in the M-79 launcher. Lower entity damage, with much lower block damage."
+ammoNuke,Nuke (Ammo)
+ammoNukeDesc,These things caused all of this so surely they can fix it. Right? Will wreck everything so handle with caution. Not advised for indoor use.
+ammoNukeAP,Nuke AP (Ammo)
+ammoNukeAPDesc,Anti-Personnel version crafted from a scavenged mini nuke. Much lower block damage. Slightly lower enitity damage and slightly decreased AOE.
+ammoBowlingball,Bowling Ball (Ammo)
+ammoBowlingballDesc,Can't find any nukes to use with your shiny Fat Man? Use these! *Not PBA regulation*
+ammoRailSpike,Rail Spike (Ammo)
+ammoRailSpikeDesc,Normal puny bullets not stopping those pesky zeds? Try these!
+ammoRailSpikeSteel,Steel Rail Spike (Ammo)
+ammoIncinerator,Incinerator Fuel (Ammo)
+ammoIncineratorDesc,Ammo used by the Incinerator.
+ammoFlareGun,Flare (Ammo)
+ammoFlareGunDesc,Ammo for the Flare Gun.
+ammo10mmBullet,10mm (Ammo)
+ammo10mmBulletDesc,Regular 10mm round. Marginally better than regular 9mm rounds.
+ammo10mmBulletHP,10mm HP (Ammo)
+ammo10mmBulletHPDesc,10mm HP round. Best against soft targets. Marginally better than HP 9mm rounds.
+ammo10mmBulletAP,10mm AP (Ammo)
+ammo10mmBulletAPDesc,10mm AP round. Best against armored targets. Marginally better than AP 9mm rounds.
+ammoBundle10mmBullet,Box of 10mm Ammo (100)
+ammoBundle10mmBulletHP,Box of HP 10mm Ammo (100)
+ammoBundle10mmBulletAP,Box of AP 10mm Ammo (100)
+ammo45acpBullet,45 ACP (Ammo)
+ammo45acpBulletDesc,Regular 45 ACP round. Marginally better than regular 10mm rounds.
+ammo45acpBulletHP,45 ACP HP (Ammo)
+ammo45acpBulletHPDesc,45 ACP HP round. Best against soft targets. Marginally better than HP 10mm rounds.
+ammo45acpBulletAP,45 ACP AP (Ammo)
+ammo45acpBulletAPDesc,45 ACP AP round. Best against armored targets. Marginally better than AP 10mm rounds.
+ammoBundle45acpBullet,Box of 45 ACP Ammo (100)
+ammoBundle45acpBulletHP,Box of HP 45 ACP Ammo (100)
+ammoBundle45acpBulletAP,Box of AP 45 ACP Ammo (100)
+ammoShotgunMagnumBuckshot,Magnum Buckshot (Ammo)
+ammoShotgunMagnumBuckshotDesc,Higher power load than regular shells with more projectiles. Better against armor though not as good as slugs.
+ammoBundleMagnumBuckshot,Box of Magnum Buckshot Ammo (100)
+ammo556b,5.56mm (Ammo)
+ammo556bDesc,Regular 5.56mm round.
+ammo556bHP,5.56mm HP (Ammo)
+ammo556bHPDesc,5.56mm HP round. Best against soft targets.
+ammo556bAP,5.56mm AP (Ammo)
+ammo556bAPDesc,5.56mm AP round. Best against armored targets.
+ammoBundle556b,Box of 5.56mm Ammo (100)
+ammoBundle556bHP,Box of HP 5.56mm Ammo (100)
+ammoBundle556bAP,Box of AP 5.56mm Ammo (100)
+ammoAB,Alien Energy Cell (Ammo)
+ammoABDesc,Ammo used by the Alien Blaster.
+ammoEC,Energy Cell (Ammo)
+ammoECDesc,Ammo used by the Laser Pistol.
+ammoMFC,Microfusion Cell (Ammo)
+ammoMFCDesc,Ammo used by the Laser Rifle.
+ammoSMFC,Shotgun Microfusion Cell (Ammo)
+ammoSMFCDesc,Ammo used by the Laser Shotgun.
+ammoPEC,Plasma Energy Cell (Ammo)
+ammoPECDesc,Ammo used by the Plasma Pistol.
+ammoPMFC,Plasma Microfusion Cell (Ammo)
+ammoPMFCDesc,Ammo used by the Plasma Rifle.
+ammoCMFC,Cryo Cell (Ammo)
+ammoCMFCDesc,Ammo used by the Cryolator.
+ammoHarpoonBolt,Harpoon Bolt (Ammo)
+ammoHarpoonBoltDesc,Ammo used by the Harpoon Gun.
+ammoHarpoonNet,Net Projectile (Ammo)
+ammoHarpoonNetDesc,Ammo used by the Harpoon Gun. Will slow down zeds and small animals. Won't work against bigger targets.
+thrownCryoGrenade,Cryo Grenade (Ammo)
+thrownCryoGrenadeDesc,"Experimental cryogenic grenade. Not as much upfront damage as a normal grenade, but makes up for it with its slowing and weakness effects. Short fuse."
+thrownNukaGrenade,Nuka Grenade (Ammo)
+thrownNukaGrenadeDesc,Experimental Nuka grenade. Short fuse. Highly effective against organic matter...
+
+gunBrokenMasterDesc,"This weapon is broken, but can be repaired if you have the right parts."
+gunHandgunT1PistolBroken,Broken Pistol
+gunHandgunT3SMG5Broken,Broken SMG-5
+gunHandgunT2Magnum44Broken,Broken 44 Magnum
+gunHandgunT3DesertVultureBroken,Broken Desert Vulture
+gunShotgunT1DoubleBarrelBroken,Broken Double Barrel
+gunShotgunT2PumpShotgunBroken,Broken Pump Shotgun
+gunShotgunT3AutoShotgunBroken,Broken Auto Shotgun
+gunRifleT1HuntingRifleBroken,Broken Hunting Rifle
+gunRifleT2LeverActionRifleBroken,Broken Lever Action Rifle
+gunRifleT3SniperRifleBroken,Broken Sniper Rifle
+gunMGT1AK47Broken,Broken AK-47
+gunMGT2TacticalARBroken,Broken Tactical Assault Rifle
+gunMGT3M60Broken,Broken M60 Machine Gun
+gunExplosivesT3RocketLauncherBroken,Broken Rocket Launcher
+gunBowT1WoodenBowBroken,Broken Wooden Bow
+gunBowT3CompoundBowBroken,Broken Compound Bow
+gunBowT1IronCrossbowBroken,Broken Iron Crossbow
+gunBowT3CompoundCrossbowBroken,Broken Compound Crossbow
+gun10mmPistolBroken,Broken 10mm Pistol
+gun10mmRevBroken,Broken 10mm Revolver
+gun10mmSMGBroken,Broken 10mm SMG
+gun1911apocBroken,Broken 1911 Pistol
+gun1911wornBroken,Broken 1911 Pistol
+gunG19Broken,Broken G19 Pistol
+gunMicroRoniBroken,Broken Micro Roni Pistol
+gun1921ThompsonBroken,Broken 1921 Thompson SMG
+gunVectorSMGBroken,Broken Vector SMG
+gunTripleBarrelShotgunBroken,Broken Triple Barrel Shotgun
+gunHenryShotgunBroken,Broken Henry Shotgun
+gunAntiqueShotgunBroken,Broken Antique Shotgun
+gunCombatShotgunBroken,Broken Combat Shotgun
+gunServiceRifleBroken,Broken Service Rifle
+gunBAR1Broken,Broken Browning Automatic Rifle
+gunSCARBroken,Broken SCAR Assault Rifle
+gunLARBroken,Broken Lever Action Rifle
+gunHeavySniperBroken,Broken Heavy Sniper
+gunMiniGBroken,Broken Minigun
+gunFatManBroken,Broken Fat Man
+gunm79Broken,Broken M79 Grenade Launcher
+gunLaserPistolBroken,Broken Laser Pistol
+gunLaserRifleBroken,Broken Laser Rifle
+gunLaserShotgunBroken,Broken Laser Shotgun
+gunPlasmaPistolBroken,Broken Plasma Pistol
+gunPlasmaRifleBroken,Broken Plasma Rifle
+gunCrossbowSemiBroken,Broken Semi-Auto Crossbow
+
+modFlashlight,Flashlight (Mod)
+modFlashlightDesc,Homemade flashlight attachment.
+modOilFilterSuppressor,Oil Filter Suppressor
+modOilFilterSuppressorDesc,Might make it hard to aim but at least they shouldn't hear all those misses...
+modLargeMag,Extended Mag (Pipe Guns)
+modLargeMagDesc,Double the ammo capacity of your pipe guns.
+modLongRifleBarrel,Long Rifle Barrel (Pipe Rifle)
+modLongRifleBarrelDesc,Can be installed on a Pipe Rifle to increase range and damage at a cost to handling.
+modShotgunCylinderMag,Shotgun Cylinder Mag
+modShotgunCylinderMagDesc,Custom made 4 round cylinder for the Pipe Shotgun.
+modLongShotgunBarrel,Long Shotgun Barrel(Pipe Shotgun)
+modLongShotgunBarrelDesc,Can be installed on a Pipe Shotgun to increase range at a small cost to handling.
+modOverchargedCapacitor,Overcharged Capacitor
+modOverchargedCapacitorDesc,Can be installed on a Laser weapon to increase magazine size and damage. Increases weapon degradation.
+modLaserSplitter,Laser Beam Splitter
+modLaserSplitterDesc,Can be installed on a Laser pistol or rifle. Splits the beam, firing 2 ammo cells at once. Increases weapon degradation.
+modLaserFocuser,Laser Beam Focuser
+modLaserFocuserDesc,Can be installed on a Laser pistol or rifle to increase range and damage. Increases weapon degradation.
+modLaserScope,Laser Rifle Scope
+modLaserScopeDesc,Can be installed on a Laser Rifle to add greater sight range. Works best with a Focuser.
+modPlasmaScope,Plasma Rifle Scope
+modPlasmaScopeDesc,Can be installed on a Plasma Rifle to add greater sight range.
+modPlasmaOverchargedCapacitor,Plasma Overcharged Capacitor
+modPlasmaOverchargedCapacitorDesc,Can be installed on a Plasma weapon to slightly increase magazine size and raise damage. Increases weapon degradation.
+modPlasmaBoostedEmitter,Plasma Boosted Emitter
+modPlasmaBoostedEmitterDesc,Can be installed on a Plasma weapon to greatly increase magazine size. Increases weapon degradation.
+modPlasmaSniperBarrel,Plasma Rifle Sniper Barrel
+modPlasmaSniperBarrelDesc,Can be installed on a Plasma Rifle to increase velocity and range. Increases weapon degradation and makes hip-fire slightly worse. 
+modRadAdder,Rad Adder
+modRadAdderDesc,"Weapon mod created with some leftover nuclear waste. Increases damage against living beings and, to a lesser extent, mutants."
+modIncineratorLT,Large Tanks
+modIncineratorLTDesc,A mod for the Incinerator that increases the amount of shots before needing to reload.
+modIncineratorHP,High Pressure Hoses
+modIncineratorHPDesc,A mod for the Incinerator that allows it to fire faster.
+modIncineratorSB,Smooth Bore Barrel
+modIncineratorSBDesc,A mod for the Incinerator that smooths the inside of the barrel to allow the projectiles to fire with more velocity.
+modPlasmaScope,Plasma Rifle Scope
+modPlasmaScopeDesc,A scope made to work with the plasma rifle.
+modPlasmaSniperBarrel,Plasma Rifle Sniper Barrel
+modPlasmaSniperBarrelDesc,An extended barrel that focuses the plasma projectile
+
+gunPipePistol_Legendary,[FFC300]Silent But Deadly[-]
+gunPipePistol_LegendaryDesc,Unique variant of the Pipe Pistol. Won't disappear upon breaking. Better stats and an included silencer for increased stealth!
+gunPipeShotgunSMSB_Legendary,[FFC300]Firestarter[-]
+gunPipeShotgunSMSB_LegendaryDesc,Unique variant of the Pipe Shotgun. Won't disappear upon breaking. Better stats and makes every round act like Dragon's Breath!
+gunPipeRifle_Legendary,[FFC300]Long Distance[-]
+gunPipeRifle_LegendaryDesc,Unique variant of the Pipe Rifle. Won't disappear upon breaking. Hits harder and has a scope!
+gunLAR_Legendary,[FFC300]Lincoln's Repeater[-]
+gunLAR_LegendaryDesc,Unique variant of the Lever Action Rifle. Hits harder and can penetrate multiple targets as well as dismember them. Has a variable zoom on the iron sights.
+gunLeFusilTerribles,[FFC300]Le Fusil Terribles[-]
+gunLeFusilTerriblesDesc,Military tier shotgun.
+gunHeavySniperGobi,[FFC300]Arizona Campaign Scout Rifle[-]
+gunHeavySniperGobiDesc,Modified long range sniper rifle.
+gunMaria,[FFC300]Maria[-]
+gunMariaDesc,Unique variant of the 9mm pistol. Hits harder and can dismember targets.
+gunPewPew,[FFC300]Pew Pew[-]
+gunPewPewDesc,Unique variant of the laser pistol. Some homemade tweaks have increased the damage output.
+gunAERPrototype,[FFC300]AER15 Prototype[-]
+gunAERPrototypeDesc,Unique prototype variant of the laser rifle. Higher damage per beam and shoots 5 rounds in one trigger pull. Hip fire behaves more like a shotgun while aimed fire allows heavy damage to a single target.
+gunCryolator,[FFC300]Cryolator[-]
+gunCryolatorDesc,Unique military prototype. Able to slow enemies when hit and has a chance to completely freeze targets.
+gunAlienBlaster,[FFC300]Alien Blaster[-]
+gunAlienBlasterDesc,"Not exactly sure how it works, but it has a trigger and it kills things..."
+gunAshmaker,[FFC300]Ashmaker[-]
+gunAshmakerDesc,"Slightly modified mingun that will set enemies on fire."
+gunCrossbowSemiL,[FFC300]Arramus's Crossbow[-]
+gunCrossbowSemiLDesc,"Semi-auto, customized crossbow. Has a chance to knock enemies down upon a successful sneak attack."
+
+gunServiceRifleSchematic,Service Rifle Schematic
+gunServiceRifleSchematicDesc,Teaches you to craft the Service Rifle. Scales with the Machine Gunner perk.
+gun10mmPistolSchematic,10mm Pistol Schematic
+gun10mmPistolSchematicDesc,Teaches you to craft the 10mm Pistol. Scales with the Gunslinger perk.
+gun10mmRevSchematic,10mm Revolver Schematic
+gun10mmRevSchematicDesc,Teaches you to craft the 10mm Revolver. Scales with the Gunslinger perk.
+gun10mmSMGSchematic,10mm SMG Schematic
+gun10mmSMGSchematicDesc,Teaches you to craft the 10mm SMG. Scales with the Gunslinger perk.
+gun1911apocSchematic,Old M1911 Pistol Schematic
+gun1911apocSchematicDesc,Teaches you to craft the Old M1911 Pistol. Scales with the Gunslinger perk.
+gun1911wornSchematic,Worn M1911 Pistol Schematic
+gun1911wornSchematicDesc,Teaches you to craft the Worn M1911 Pistol. Scales with the Gunslinger perk.
+gunG19Schematic,G19 Pistol Schematic
+gunG19SchematicDesc,Teaches you to craft the G19 Pistol and the Micro Roni. Scales with the Gunslinger perk.
+gun1921ThompsonSchematic,M1921 Thompson SMG Schematic
+gun1921ThompsonSchematicDesc,Teaches you to craft the M1921 Thompson SMG. Scales with the Gunslinger perk.
+gunVectorSMGSchematic,Vector SMG Schematic
+gunVectorSMGSchematicDesc,Teaches you to craft the Vector SMG. Scales with the Gunslinger perk.
+gunLARSchematic,Lever Action Rifle Schematic
+gunLARSchematicDesc,Teaches you to craft the Lever Action Rifle. Scales with the Deadeye perk.
+gunHeavySniperSchematic,Heavy Sniper Rifle Schematic
+gunHeavySniperSchematicDesc,Teaches you to craft the Heavy Sniper Rifle. Scales with the Deadeye perk.
+gunRailwayRifleSchematic,Railway Rifle Schematic
+gunRailwayRifleSchematicDesc,Teaches you to craft the Railway Rifle. Scales with the Advanced Engineering perk.
+gunIncineratorSchematic,Incinerator Schematic
+gunIncineratorSchematicDesc,Teaches you to craft the Incinerator. Scales with the Demolitions Expert perk.
+gunTripleBarrelShotgunSchematic,Triple Barrel Shotgun Schematic
+gunTripleBarrelShotgunSchematicDesc,Teaches you to craft the Triple Barrel Shotgun. Scales with the Boomstick perk.
+gunAntiqueShotgunSchematic,Antique Shotgun Schematic
+gunAntiqueShotgunSchematicDesc,Teaches you to craft the Antique Shotgun. Single Shot. Scales with the Boomstick perk.
+gunHenryShotgunSchematic,Henry Shotgun Schematic
+gunHenryShotgunSchematicDesc,Teaches you to craft the Henry Shotgun. Single Shot. Scales with the Boomstick perk.
+gunCombatShotgunSchematic,Combat Shotgun Schematic
+gunCombatShotgunSchematicDesc,Teaches you to craft the Combat Shotgun. Scales with the Boomstick perk.
+gunLaserPistolSchematic,Laser Pistol Schematic
+gunLaserPistolSchematicDesc,Teaches you to craft the Laser Pistol. Scales with the Advanced Engineering perk.
+gunLaserRifleSchematic,Laser Rifle Schematic
+gunLaserRifleSchematicDesc,Teaches you to craft the Laser Rifle. Scales with the Advanced Engineering perk.
+gunLaserShotgunSchematic,Laser Shotgun Schematic
+gunLaserShotgunSchematicDesc,Teaches you to craft the Laser Rifle. Scales with the Advanced Engineering perk.
+gunPlasmaPistolSchematic,Plasma Pistol Schematic
+gunPlasmaPistolSchematicDesc,Teaches you to craft the Plasma Pistol. Scales with the Advanced Engineering perk.
+gunPlasmaRifleSchematic,Plasma Rifle Schematic
+gunPlasmaRifleSchematicDesc,Teaches you to craft the Plasma Rifle. Scales with the Advanced Engineering perk.
+gunBAR1Schematic,BAR Schematic
+gunBAR1SchematicDesc,Teaches you to craft the BAR. Scales with the Machine Gunner perk.
+gunSCARSchematic,SCAR Schematic
+gunSCARSchematicDesc,Teaches you to craft the SCAR. Scales with the Machine Gunner perk.
+gunMiniGSchematic,Minigun Schematic
+gunMiniGSchematicDesc,Teaches you to craft the Minigun. Scales with the Machine Gunner perk.
+gunm79Schematic,M-79 Schematic
+gunm79SchematicDesc,Teaches you to craft the M-79. Scales with the Demolitions Expert perk.
+gunLaserPistolScrapSchematic,Scrap Laser Pistol Schematic
+gunLaserPistolScrapSchematicDesc,Teaches you to craft the Scrap Laser Pistol. Scales with the Advanced Engineering perk.
+gunHarpoonGunSchematic,Harpoon Gun Schematic
+gunHarpoonGunSchematicDesc,Teaches you to craft the Harpoon Gun. Scales with the Advanced Engineering perk.
+gunCrossbowSemiSchematic,Semi-Auto Crossbow Schematic
+gunCrossbowSemiSchematicDesc,Teaches you to craft the Semi-Auto Crossbow. Scales with the Archery perk.
+meleeCattleProdSchematic,Cattle Prod Schematic
+meleeCattleProdSchematicDesc,Teaches you to craft the Cattle Prod. Scales with the Electrocutioner perk.
+
+modArmorExtraInsulationSchematic,Extra Insulation Mod Schematic
+modArmorBreathableMeshSchematic,Breathable Mesh Mod Schematic
+modArmorTemperedPlatingSchematic,Tempered Plating Mod Schematic
+modIncineratorLTSchematic,Large Tanks Schematic
+modIncineratorHPSchematic,High Pressure Hoses Schematic
+modIncineratorSBSchematic,Smooth Bore Barrel Schematic
+modOverchargedCapacitorSchematic,Overcharged Capacitor Schematic
+modLaserSplitterSchematic,Laser Splitter Schematic
+modLaserFocuserSchematic,Laser Focuser Schematic
+modLaserScopeSchematic,Laser Rifle Scope Schematic
+modRadAdderSchematic,Rad Adder Schematic
+modPlasmaScopeSchematic,Plasma Rifle Scope Schematic
+modPlasmaOverchargedCapacitorSchematic,Plasma Overcharged Capacitor Schematic
+modPlasmaBoostedEmitterSchematic,Plasma Boosted Emitter Schematic
+modPlasmaSniperBarrelSchematic,Plasma Rifle Sniper Barrel Schematic
+cntVTstorageSecurePlayerSchematic,Vault Tec Storage Schematic
+cntVTstorageTallSecurePlayerSchematic,Vault Tec Tall Storage Schematic
+
+meleeBanjo,Banjo
+meleeBanjoDesc,A melee weapon. A good choice when trying to win Zombie Kill of the Week!
+meleeBaton,Baton
+meleeBatonDesc,A simple melee weapon.
+meleeCleaver,Cleaver
+meleeCleaverDesc,A simple melee weapon.
+meleeCrowbar,Crowbar
+meleeCrowbarDesc,A simple melee weapon.
+meleeCuestick,Cue Stick
+meleeCuestickDesc,"A pool cue. Not the most effective, but it might keep you alive."
+meleeKatana1,Katana
+meleeKatana1Desc,"Meant for samurai warriors. But who's left to judge?"
+meleeNailBoard,Nail Board
+meleeNailBoardDesc,A simple melee weapon.
+meleePipeHammer,Pipe Hammer
+meleePipeHammerDesc,A makeshift melee weapon.
+meleePipeWrench,Pipe Wrench
+meleePipeWrenchDesc,A simple melee weapon.
+meleeRebarClub,Rebar Club
+meleeRebarClubDesc,A heavy melee weapon. Scavenged from the rubble out in the wasteland...
+meleeRollingPin,Rolling Pin
+meleeRollingPinDesc,A used kitchen utensil. Make Grandma proud!
+meleeTireIron,Tire Iron
+meleeTireIronDesc,"Heavy and metal? What else do you need?".
+meleeSupaSledge,Supa Sledge
+meleeSupaSledgeDesc,"Modified sledgehammer. Heavy and slow, but very powerful."
+meleeGuitar,Guitar
+meleeGuitarDesc,"An old guitar. Probably only good for cracking skulls at this point."
+meleeMachete1,Survival Machete
+meleeMachete1Desc,"A worn, short machete."
+meleeFishSpear,Fishing Spear
+meleeFishSpearDesc,"A fishing spear. Power attack causes bleeding."
+meleePitchfork,Pitchfork
+meleePitchforkDesc,"An old pitchfork. Power attack causes bleeding."
+meleeCattleProd,Cattle Prod
+meleeCattleProdDesc,"A homemade cattle prod."
+
+meleeTheBreak,[FFC300]The Break[-]
+meleeTheBreakDesc,A custom pool cue. Higher damage and dismemberment.
+meleeDukeSledge,[FFC300]Duke's Judgement[-]
+meleeDukeSledgeDesc,A powerful supa sledge.
+meleeMBC,[FFC300]Mad Bean's Club[-]
+meleeMBCDesc,A cobbled together melee weapon. Scavenged from the wasteland. Sure would hate to meet the maniac who made this thing...
+meleeAlienBaton,[FFC300]Alien Shock Baton[-]
+meleeAlienBatonDesc,A lightweight baton that looks like it might shock whatever it hits. No idea what it's made of...
+meleeNavSlugger,[FFC300]Navezgane Slugger[-]
+meleeNavSluggerDesc,Send those zombie heads out of the park!
+meleeOpenBreaker,[FFC300]Open Breaker[-]
+meleeOpenBreakerDesc,"Zombie killing is a 24/7 business. And cousin, business is a-boomin'!"
+
+cntUFO,Crashed UFO
+cntUFODesc,UFO block
+
+vehicleVertibirdchassis,Vertibird Chassis
+vehicleVertibirdchassisDesc,Parts needed to craft the Vertibird. Grease Monkey level 5 required to craft these.
+vehicleVertibirdengines,Vertibird Engines
+vehicleVertibirdenginesDesc,Parts needed to craft the Vertibird. Grease Monkey level 5 required to craft these.
+vehicleVertibird,Vertibird
+vehicleVertibirdplaceable,Vertibird
+vehicleVertibirdplaceableDesc,Old military transport chopper. Can hold up to 6 people.
+vehicleVertibirdchassisSchematic,Vertibird Chassis Schematic
+vehicleVertibirdenginesSchematic,Vertibird Engines Schematic
+vehicleICTchassis,Icecream Truck Chassis
+vehicleICTchassisDesc,Parts needed to craft the Icecream Truck. Grease Monkey level 4 required to craft these.
+vehicleICTbody,Icecream Truck Body
+vehicleICTbodyDesc,Parts needed to craft the Icecream Truck. Grease Monkey level 4 required to craft these.
+vehicleICT,Icecream Truck
+vehicleICTplaceable,Icecream Truck
+vehicleICTplaceableDesc,Old Icecream Truck.
+vehicleICTchassisSchematic,Icecream Truck Chassis Schematic
+vehicleICTbodySchematic,Icecream Truck Body Schematic
+vehiclePColdchassis,Old Police Car Chassis
+vehiclePColdchassisDesc,Parts needed to craft the Police Car. Grease Monkey level 4 required to craft these.
+vehiclePColdbody,Old Police Car Body
+vehiclePColdbodyDesc,Parts needed to craft the Police Car. Grease Monkey level 4 required to craft these.
+vehiclePCold,Old Police Car
+vehiclePColdplaceable,Old Police Car
+vehiclePColdplaceableDesc,Old Old Police Car.
+vehiclePColdchassisSchematic,Old Police Car Chassis Schematic
+vehiclePColdbodySchematic,Old Police Car Body Schematic
+vehicleAtomCarchassis,Old Atom Car Chassis
+vehicleAtomCarchassisDesc,Parts needed to craft the Atom Car. Grease Monkey level 4 required to craft these.
+vehicleAtomCarbody,Old Atom Car Body
+vehicleAtomCarbodyDesc,Parts needed to craft the Atom Car. Grease Monkey level 4 required to craft these.
+vehicleAtomCar,Old Atom Car
+vehicleAtomCarplaceable,Old Atom Car
+vehicleAtomCarplaceableDesc,Old Atom Car.
+vehicleAtomCarchassisSchematic,Old Atom Car Chassis Schematic
+vehicleAtomCarbodySchematic,Old Atom Car Body Schematic
+vehicleOldTruckchassis,Old Pickup Chassis
+vehicleOldTruckchassisDesc,Parts needed to craft the Pickup. Grease Monkey level 4 required to craft these.
+vehicleOldTruckbody,Old Pickup Body
+vehicleOldTruckbodyDesc,Parts needed to craft the Pickup. Grease Monkey level 4 required to craft these.
+vehicleOldTruck,Old Pickup
+vehicleOldTruckplaceable,Old Pickup
+vehicleOldTruckplaceableDesc,Old Pickup.
+vehicleOldTruckchassisSchematic,Old Pickup Chassis Schematic
+vehicleOldTruckbodySchematic,Old Pickup Body Schematic
+vehicleOldSemiWLchassis,Old Semi Chassis
+vehicleOldSemiWLchassisDesc,Parts needed to craft the Old Semi. Grease Monkey level 4 required.
+vehicleOldSemiWLbody,Old Semi Body
+vehicleOldSemiWLbodyDesc,Parts needed to craft the Old Semi.
+vehicleOldSemiWL,Old Semi
+vehicleOldSemiWLplaceable,Old Semi
+vehicleOldSemiWLplaceableDesc,"You better watch your step, Arlene!"
+vehicleOldSemiWLchassisSchematic,Old Semi Chassis Schematic
+vehicleOldSemiWLbodySchematic,Old Semi Body Schematic
+
+EntityLootContainerRaider,Loot
+EntityLootContainerRaiderDesc,Loot
+EntityLootContainerRaiderLeader,Leader's Loot
+EntityLootContainerRaiderLeaderDesc,Leader's Loot
+EntityLootContainerMutant,Mutant's Loot
+EntityLootContainerMutantDesc,Mutant's Loot
+EntityLootContainerBehemoth,Behemoth's Loot
+EntityLootContainerBehemothDesc,Behemoth's Loot
+EntityLootContainerGhoul,Ghoul's Loot
+EntityLootContainerGhoulDesc,Ghoul's Loot
+EntityLootContainerAlien,Alien Loot
+EntityLootContainerAlienDesc,Alien Loot
+EntityLootContainerFisherman,Fisherman's Loot
+EntityLootContainerFishermanDesc,Loot
+
+resourcePowerArmorRepairKit,Power Armor Repair Kit
+resourcePowerArmorRepairKitDesc,Resource kit used to repair Power Armor.
+powerArmorMaster1Desc,"A piece of a Power Armor frame. You need to find the power armor pieces to make this useful. Repairs with Power Armor Repair Kit."
+powerArmorHelmet_Base1,Power Armor Frame (Helmet)
+powerArmorChest_Base1,Power Armor Frame (Chest)
+powerArmorArms_Base1,Power Armor Frame (Arms)
+powerArmorLegs_Base1,Power Armor Frame (Legs)
+powerArmorBoots_Base1,Power Armor Frame (Boots)
+modPowerArmorHelmet_Model_A1Desc,"This is a piece of power armor. It installs into a Power Armor Frame piece."
+modPowerArmorHelmet_Model_A1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_B1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_C1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_D1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_E1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_F1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_G1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_H1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_I1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_J1,Power Armor (Helmet)
+modPowerArmorHelmet_Model_K1,Power Armor (Helmet)
+modPowerArmorChest_Model_A1,Power Armor (Chest)
+modPowerArmorChest_Model_B1,Power Armor (Chest)
+modPowerArmorChest_Model_C1,Power Armor (Chest)
+modPowerArmorChest_Model_D1,Power Armor (Chest)
+modPowerArmorChest_Model_E1,Power Armor (Chest)
+modPowerArmorChest_Model_F1,Power Armor (Chest)
+modPowerArmorChest_Model_G1,Power Armor (Chest)
+modPowerArmorChest_Model_H1,Power Armor (Chest)
+modPowerArmorChest_Model_I1,Power Armor (Chest)
+modPowerArmorChest_Model_J1,Power Armor (Chest)
+modPowerArmorChest_Model_K1,Power Armor (Chest)
+modPowerArmorArms_Model_A1,Power Armor (Arms)
+modPowerArmorArms_Model_B1,Power Armor (Arms)
+modPowerArmorArms_Model_C1,Power Armor (Arms)
+modPowerArmorArms_Model_D1,Power Armor (Arms)
+modPowerArmorArms_Model_E1,Power Armor (Arms)
+modPowerArmorArms_Model_F1,Power Armor (Arms)
+modPowerArmorArms_Model_G1,Power Armor (Arms)
+modPowerArmorArms_Model_H1,Power Armor (Arms)
+modPowerArmorArms_Model_I1,Power Armor (Arms)
+modPowerArmorArms_Model_J1,Power Armor (Arms)
+modPowerArmorArms_Model_K1,Power Armor (Arms)
+modPowerArmorLegs_Model_A1,Power Armor (Legs)
+modPowerArmorLegs_Model_B1,Power Armor (Legs)
+modPowerArmorLegs_Model_C1,Power Armor (Legs)
+modPowerArmorLegs_Model_D1,Power Armor (Legs)
+modPowerArmorLegs_Model_E1,Power Armor (Legs)
+modPowerArmorLegs_Model_F1,Power Armor (Legs)
+modPowerArmorLegs_Model_G1,Power Armor (Legs)
+modPowerArmorLegs_Model_H1,Power Armor (Legs)
+modPowerArmorLegs_Model_I1,Power Armor (Legs)
+modPowerArmorLegs_Model_J1,Power Armor (Legs)
+modPowerArmorLegs_Model_K1,Power Armor (Legs)
+modPowerArmorBoots_Model_A1,Power Armor (Boots)
+modPowerArmorBoots_Model_B1,Power Armor (Boots)
+modPowerArmorBoots_Model_C1,Power Armor (Boots)
+modPowerArmorBoots_Model_D1,Power Armor (Boots)
+modPowerArmorBoots_Model_E1,Power Armor (Boots)
+modPowerArmorBoots_Model_F1,Power Armor (Boots)
+modPowerArmorBoots_Model_G1,Power Armor (Boots)
+modPowerArmorBoots_Model_H1,Power Armor (Boots)
+modPowerArmorBoots_Model_I1,Power Armor (Boots)
+modPowerArmorBoots_Model_J1,Power Armor (Boots)
+modPowerArmorBoots_Model_K1,Power Armor (Boots)
+modPowerArmorHelmet_Model_WR1,[FFC300]White River Power Armor[-] (Helmet)
+modPowerArmorHelmet_Model_WR1Desc,"This is a legendary piece of power armor. It installs into a Power Armor Frame piece."
+modPowerArmorChest_Model_WR1,[FFC300]White River Power Armor[-] (Chest)
+modPowerArmorChest_Model_WR1Desc,"This is a legendary piece of power armor. It installs into a Power Armor Frame piece."
+modPowerArmorArms_Model_WR1,[FFC300]White River Power Armor[-] (Arms)
+modPowerArmorArms_Model_WR1Desc,"This is a legendary piece of power armor. It installs into a Power Armor Frame piece."
+modPowerArmorLegs_Model_WR1,[FFC300]White River Power Armor[-] (Legs)
+modPowerArmorLegs_Model_WR1Desc,"This is a legendary piece of power armor. It installs into a Power Armor Frame piece."
+modPowerArmorBoots_Model_WR1,[FFC300]White River Power Armor[-] (Boots)
+modPowerArmorBoots_Model_WR1Desc,"This is a legendary piece of power armor. It installs into a Power Armor Frame piece."
+PABundle1,Power Armor Set
+PABundle1Desc,This bundle contains a full set of Power Armor.
+PABundle2,Power Armor Set
+PABundle2Desc,This bundle contains a full set of Power Armor.
+PABundle3,Power Armor Set
+PABundle3Desc,This bundle contains a full set of Power Armor.
+PABundle4,Power Armor Set
+PABundle4Desc,This bundle contains a full set of Power Armor.
+PABundle5,Power Armor Set
+PABundle5Desc,This bundle contains a full set of Power Armor.
+PABundle6,Power Armor Set
+PABundle6Desc,This bundle contains a full set of Power Armor.
+PABundle7,Power Armor Set
+PABundle7Desc,This bundle contains a full set of Power Armor.
+PABundle8,Power Armor Set
+PABundle8Desc,This bundle contains a full set of Power Armor.
+PABundle9,Power Armor Set
+PABundle9Desc,This bundle contains a full set of Power Armor.
+PABundle10,Power Armor Set
+PABundle10Desc,This bundle contains a full set of Power Armor.
+PABundle11,Power Armor Set
+PABundle11Desc,This bundle contains a full set of Power Armor.
+PowerArmorStand,Power Armor Stand
+PowerArmorStand2,Power Armor Stand
+PowerArmorStand3,Power Armor Stand
+PowerArmorStand4,Power Armor Stand
+PowerArmorStand5,Power Armor Stand
+PowerArmorStand6,Power Armor Stand
+PowerArmorStand7,Power Armor Stand
+PowerArmorStand8,Power Armor Stand
+PowerArmorStand9,Power Armor Stand
+PowerArmorStand10,Power Armor Stand
+PowerArmorStand11,Power Armor Stand
+PowerArmorStand12,Power Armor Stand
+PowerArmorStandHelper,Power Armor Stand (Helper)
+PowerArmorStandHelperDesc,This block will randomly spawn one of the power armor stands.
+modPowerArmorHelmetRadar,Power Armor Radar
+modPowerArmorHelmetRadarDesc,Can be installed in a Power Armor Helmet. Will show nearby enemies on the compass.
+modPowerArmorHelmetRadarMK2,Power Armor Radar MkII
+modPowerArmorHelmetRadarMK2Desc,Can be installed in a Power Armor Helmet. Will show enemies on the compass.
+modPowerArmorHelmetScuba,Power Armor Oxygen Generator
+modPowerArmorHelmetScubaDesc,Can be installed in a Power Armor Helmet. Allows you to remain underwater indefinitely.
+modPowerArmorArmsBlockBuster,Power Armor Block Buster
+modPowerArmorArmsBlockBusterDesc,Can be installed in Power Armor Arms. Increases melee block damage.
+modPowerArmorArmsMelee,Power Armor Knuckles
+modPowerArmorArmsMeleeDesc,Can be installed in a Power Armor Arms. Can cause enemies to bleed.
+modPowerArmorChestPlating,Power Armor Reinforced Plating
+modPowerArmorChestPlatingDesc,Can be installed in Power Armor Chest. Reduces damage taken.
+modPowerArmorChestEmergencyProto,Power Armor Emergency Protocol
+modPowerArmorChestEmergencyProtoDesc,Can be installed in a Power Armor Chest. Slowly regenerate health when below 50%.
+modPowerArmorLegsShocks,Power Armor Sturdy Shocks
+modPowerArmorLegsShocksDesc,Can be installed in Power Armor Legs. Removes all encumbrance slots.
+modPowerArmorLegsImpactLanding,Power Armor Impact Landing
+modPowerArmorLegsImpactLandingDesc,Can be installed in Power Armor Legs. When falling at least 8 blocks with a full set of Power Armor you will knock any nearby enemies down.
+modPowerArmorLegsJumpBoost,Power Armor Jump Boost
+modPowerArmorLegsJumpBoostDesc,Can be installed in Power Armor Legs. Increases jump height by 50%.
+modPowerArmorBootsGyros,Power Armor Enhanced Gyros
+modPowerArmorBootsGyrosDesc,Can be installed in Power Armor Boots. Allows you to run faster while using less stamina.
+modPowerArmorBootsDampener,Power Armor Fall Dampener
+modPowerArmorBootsDampenerDesc,Can be installed in Power Armor Boots. Reduces fall damage by 75%, and if wearing a full set of Power Armor it will remove fall damage completely.
+modPowerArmorRadResistant,Power Armor Rad Resistant
+modPowerArmorRadResistantDesc,Can be installed in Power Armor. Makes you immune to radiation sickness from ghouls.
+modPowerArmorHelmetNightVision,Power Armor Night Vision
+modPowerArmorHelmetNightVisionDesc,Can be installed in Power Armor Helmet. Gives you a clearer night vision.
+modPowerArmorArmsTeslaBracers,Power Armor Tesla Bracers
+modPowerArmorArmsTeslaBracersDesc,Can be installed in Power Armor Hands. Adds a small chance to electrocute your target.
+modPowerArmorChestTesla,Power Armor Tesla Coils
+modPowerArmorChestTeslaDesc, Can be installed in Power Armor Chest. Will briefly zap and enemy that hits you.
+modPowerArmorChestBloodFilter,Power Armor Blood Filter
+modPowerArmorChestBloodFilterDesc,Can be installed in Power Armor Chest. Adds 50% resistance to addiction debuffs.
+modArmorExtraInsulation,Extra Insulation Mod
+modArmorExtraInsulationDesc,Adds moderate hypothermal insulation.
+modArmorBreathableMesh,Breathable Mesh Mod
+modArmorBreathableMeshDesc,Adds moderate hyperthermal insulation.
+modArmorTemperedPlating,Tempered Plating Mod
+modArmorTemperedPlatingDesc,Provides moderate physical protection.
+
+perkWildWasteland,Wild Wasteland
+perkWildWastelandDesc,A collection of random knowledge to give you various benefits out in the Wasteland.
+perkWhiteRiverSG,White River Survival Guide
+perkWhiteRiverSGDesc,A collection of survival knowledge to help you get by out in the Wasteland.
+perkPowerArmor,Power Armor and You
+perkPowerArmorDesc,A collection of tips and tricks to help you get the most out of your Power Armor while roaming the Wasteland.
+
+bookWildWastelandHeavyHands,Wild Wasteland Vol 1
+bookWildWastelandPrecisionStrike,Wild Wasteland Vol 2
+bookWildWastelandLordoftheLimbs,Wild Wasteland Vol 3
+bookWildWastelandDeepFreeze,Wild Wasteland Vol 4
+bookWildWastelandZap,Wild Wasteland Vol 5
+bookWildWastelandRaiderBully,Wild Wasteland Vol 6
+bookWildWastelandZedtheImpaler,Wild Wasteland Vol 7
+
+bookWhiteRiverSGTheHaggler,White River Survival Guide Vol 1
+bookWhiteRiverSGTumblers,White River Survival Guide Vol 2
+bookWhiteRiverSGIronGut,White River Survival Guide Vol 3
+bookWhiteRiverSGScratch,White River Survival Guide Vol 4
+bookWhiteRiverSGRecovery,White River Survival Guide Vol 5
+bookWhiteRiverSGSprinterWeekly,White River Survival Guide Vol 6
+bookWhiteRiverSGKeenEyes,White River Survival Guide Vol 7
+
+bookPowerArmorMasterRepair,Power Armor and You Vol 1
+bookPowerArmorExtraPlating,Power Armor and You Vol 2
+bookPowerArmorSteadyHands,Power Armor and You Vol 3
+bookPowerArmorBullRush,Power Armor and You Vol 4
+bookPowerArmorEfficientMovement,Power Armor and You Vol 5
+bookPowerArmorStealthCrouch,Power Armor and You Vol 6
+bookPowerArmorReflect,Power Armor and You Vol 7
+
+perkWildWastelandHeavyHandsDesc,Gain a small chance to knock an enemy down when using melee weapons.
+perkWildWastelandHeavyHandsLongDesc,"Heavy Hands: You've learned to be more effective with your melee attacks, allowing you a chance to knock your enemy down."
+perkWildWastelandPrecisionStrikeDesc,Adds a small chance to deal double damage in combat.
+perkWildWastelandPrecisionStrikeLongDesc,"Precision Strike: Learning the art of combat has given you a small chance to deal double damage."
+perkWildWastelandLordoftheLimbsDesc,Increases damage to limbs.
+perkWildWastelandLordoftheLimbsLongDesc,"Lord of the Limbs: The best way to deal with an enemy is to cripple their limbs. They can't catch you or hit you with the extra damage you now do to those appendages."
+perkWildWastelandDeepFreezeDesc,Adds 20% damage to the Cryolator.
+perkWildWastelandDeepFreezeLongDesc,"Deep Freeze: You have learned how to increase the damage output of the Cryolator."
+perkWildWastelandZapDesc,Adds 20% damage to the Alien Blaster.
+perkWildWastelandZapLongDesc,"Zap!: You have learned how to increase the damage output of the Alien Blaster."
+perkWildWastelandRaiderBullyDesc,Deal more 15% damage to Raiders.
+perkWildWastelandRaiderBullyLongDesc,"Raider Bully: You've grown tired of the Raiders crap. Any Raider you come across will feel your wrath!"
+perkWildWastelandZedtheImpalerDesc,Deal 10% more damage to Zeds.
+perkWildWastelandZedtheImpalerLongDesc,"Zed the Impaler: The experience you've gained fighting zeds has taught you to be more effective against them."
+perkWildWastelandCompleteDesc,Learn how to craft energy ammo.
+perkWildWastelandCompleteLongDesc,"The Ammo of Tomorrow: With the growing threats out in the Wasteland, more powerful weaponry is needed to ensure your survival. You can now craft energy weapon ammo."
+
+perkWhiteRiverSGTheHagglerDesc,Sell for 10% more and buy for 10% less.
+perkWhiteRiverSGTheHagglerLongDesc,"The Haggler: Part of surviving is being able to get better deals with traders. Save a bit of coin when buying and line your pockets a little more when selling."
+perkWhiteRiverSGTumblersDesc,Lockpicks are 25% less likely to break.
+perkWhiteRiverSGTumblersLongDesc,"Tumblers of Tomorrow: Lockpicking is now a bit easier for you."
+perkWhiteRiverSGIronGutDesc,Slows water and food loss. Lessens the chance of getting dysentery.
+perkWhiteRiverSGIronGutLongDesc,"Iron Gut: Over time you have learned to be able to go longer between meals. You also won't get dysentery as easily."
+perkWhiteRiverSGScratchDesc,Adds a 20% resistance to most negative effects.
+perkWhiteRiverSGScratchLongDesc,"'Tis But A Scratch: All those injuries have increased your resistance to most negative effects."
+perkWhiteRiverSGRecoveryDesc,Regenerate a small amount of health over time.
+perkWhiteRiverSGRecoveryLongDesc,"Recovery: Your body has learned how to heal on its own. You will slowly gain health."
+perkWhiteRiverSGSprinterWeeklyDesc,Use 10% less stamina when running.
+perkWhiteRiverSGSprinterWeeklyLongDesc,"Sprinter Weekly: Just keep running! You use less stamina when running."
+perkWhiteRiverSGKeenEyesDesc,Adds 10% to your loot gamestage.
+perkWhiteRiverSGKeenEyesLongDesc,"Keen Eyes: The experience you've gained scrounging through the wastes has honed your eyes, making it easier to find better loot."
+perkWhiteRiverSGCompleteDesc,Learn how to craft various furniture.
+perkWhiteRiverSGCompleteLongDesc,"Survive and Thrive: The next step after surviving is thriving. That means making your living space more comfortable. You may now craft an assortment of furniture and storage containers."
+
+perkPowerArmorMasterRepairDesc,Craft repair kits for Power Armor 50% faster with less materials.
+perkPowerArmorMasterRepairLongDesc,"Master Repair: Maintaining your Power Armor is vital. Spend less time and materials making Power Armor repair kits."
+perkPowerArmorExtraPlatingDesc,Power Armor degrades 20% slower.
+perkPowerArmorExtraPlatingLongDesc,"Extra Plating: Install some extra plating so your Power Armor lasts longer."
+perkPowerArmorSteadyHandsDesc,Steady your aim when wearing Power Armor.
+perkPowerArmorSteadyHandsLongDesc,"Steady Hands: Learn how to use Power Armor to increase your accuracy."
+perkPowerArmorBullRushDesc,Running into zeds while wearing Power Armor will knock them down.
+perkPowerArmorBullRushLongDesc,"Bull Rush: Put that extra weight to use and charge right through your enemies."
+perkPowerArmorEfficientMovementDesc,Use less stamina when wearing Power Armor.
+perkPowerArmorEfficientMovementLongDesc,"Efficient Movement: Learn how to make the Power Armor work for you to save stamina."
+perkPowerArmorStealthCrouchDesc,Use less stamina and move faster when crouching. Also makes you harder to detect.
+perkPowerArmorStealthCrouchLongDesc,"Stealth Crouch: Move stealthily, faster! Move faster and use less stamina when crouching."
+perkPowerArmorReflectDesc,Reflect 25 damage onto your attacker.
+perkPowerArmorReflectLongDesc,"Reflect: You can now literally watch your enemies kill themselves with each swing! Just know if it kills them you'll get no XP."
+perkPowerArmorCompleteDesc,Raise your max Health and Stamina.
+perkPowerArmorCompleteLongDesc,"Walking Tank: You have unlocked the full potential of the Power Armor."
+
+questPewPew,Sunset Sarsaparilla Flier
+questPewPewDesc,A flier for the Star Bottlecap giveaway. Read it to learn where to go to claim your prize!
+qt_bdubyah, Bdubyah's Treasure Map
+treasure_bdub,Bdub's Treasure
+treasure_bdub_offer,"Survivor,\n\nI don't even know you, and I probably don't like you, but I've been cornered by some raiders, and I don't like my chances. As much as I hate to give away my stuff, I'd rather it not go to waste. This map will show you were one of my personal stashes is located. Take it, and kill every last raider POS you come across.\n\nStay alive and make them wish they weren't,\nBdubyah"
+questoldMap,Old Map
+questoldMapDesc,An old map the trader gave me to show where the fool's stash is. Read it to learn where the prize should be.
+questLetter,Old Letter
+questLetterDesc,Some old letter that didn't make it to its intended target.
+cntPewPewLoot,Hidden Stash
+cntBdubChest,Bdub's Hidden Stash
+cntBdubChestInsecure,Bdub's Hidden Stash
+noteNF,Old Journal Page
+noteNFDesc,"Gotta remember to head back to that old Nuka Factory at some point. We had to leave in a hurry and didn't get to clean out the stash we hid in the bottling area. Probably a lot of blood around since we got attacked trying to hide our stuff. No telling what kind of shit is inside that place now though, or if anything is even left."
+noteCM,Old Journal Page
+noteCMDesc,"We had found a hidden survival room someone built under an old cemetary, but one of those glowy guys fell down in the pit so we had to abandon it and all the loot they stashed there. Gotta try and get back to it once we have some gear."
+
+questRewardT0WLHandgunBundle,Pipe Pistol Bundle
+questRewardT0WLRifleBundle,Pipe Rifle Bundle
+questRewardT0WLShotgunBundle,Pipe Shotgun Bundle
+questRewardT1WLHandgunBundle,10mm Pistol Bundle
+questRewardT1WLShotgunBundle,Antique Shotgun Bundle
+questRewardT1WLRifleBundle,Service Rifle Bundle
+questRewardT1WLMachineGunBundle,Browning Automatic Rifle Bundle
+questRewardT2WLHandgunBundle,10mm Revolver Bundle
+questRewardT2WLShotgunBundle,Triple Barrel Shotgun Bundle
+questRewardT2WLRifleBundle,Lever Action Rifle Bundle
+questRewardT2WLMachineGunBundle,SCAR Assault Rifle Bundle
+questRewardT3WLHandgunBundle,1911 Bundle
+questRewardT3WLSMGBundle,Vector SMG Bundle
+questRewardT3WLShotgunBundle,Combat Shotgun Bundle
+questRewardT3WLRifleBundle,Heavy Sniper Bundle
+questRewardT3WLMachineGunBundle,Minigun Bundle
+questRewardT3WLHandgunLegendaryBundle,Old 1911 Legendary Bundle
+questRewardT3WLSMGLegendaryBundle,Vector SMG Legendary Bundle
+questRewardT3WLShotgunLegendaryBundle,Combat Shotgun Legendary Bundle
+questRewardT3WLRifleLegendaryBundle,Heavy Sniper Legendary Bundle
+questRewardT3WLMachineGunLegendaryBundle,Minigun Legendary Bundle
+questRewardT4LaserModsBundle,Laser Mods Bundle
+questRewardT4LaserModsBundleDesc,A bundle of 3 Laser weapon mods.
+questRewardT5PlasmaModsBundle,Plasma Mods Bundle
+questRewardT5PlasmaModsBundleDesc,A bundle of 3 Plasma weapon mods.
+questRewardT3PAModsBundle,Power Armor Mods Bundle 01
+questRewardT3PAModsBundleDesc,A bundle of 3 good Power Armor mods.
+questRewardT4PAModsBundle,Power Armor Mods Bundle 02
+questRewardT4PAModsBundleDesc,A bundle of 3 great Power Armor mods.
+questRewardT5PAModsBundle,Power Armor Mods Bundle 03
+questRewardT5PAModsBundleDesc,A bundle of 3 excellent Power Armor mods.
+questRewardT5PASetWRBundle,Legendary Power Armor Bundle
+questRewardT5PASetWRBundleDesc,Gives you a set of White River Power Armor. Quality varies from 4 to 6.
+questRewardT3WLFoodBundle,Wasteland Food Bundle 01
+questRewardT4WLFoodBundle,Wasteland Food Bundle 02
+questRewardAtomCarPartsBundle,Atom Car Parts Bundle
+questRewardICTPartsBundle,Ice Cream Truck Parts Bundle
+questRewardSemiPartsBundle,Old Semi Parts Bundle
+questRewardVertibirdPartsBundle,Vertibird Parts Bundle
+
+LaserShotgunNoFireDesc,This weapon doesn't have enough cells to fire. Reload with more ammo for it function correctly.
+statCureRadiation,Cure Radiation
+statRadiationResist,Radiation Resistance
+statVenomResist,Venom Resistance
+statAddictionCure,Cure Addiction
+statEntityDamageAll,Entity Damage
+statShowLuck,Luck
+statShowSurvival,Survival
+statRadarRange,Radar Range
+statBlockDamage,Block Damage
+
+buffRadiation01GetBetterDesc,You have treated mild radiation sickness. Continue anti-radiation medication until the poisoning is cleared up.
+buffRadiation01GetBetterName,Treated Mild Radiation Poisoning
+buffRadiation01UntreatedDesc,You have mild radiation poisoning. It will get worse quickly if you don't find some anti-radiation medicine.
+buffRadiation01UntreatedName,Mild Radiation Poisoning
+buffRadiation01UntreatedTooltip,You are sick. Take anti-radiation medicine to avoid symptoms.
+buffRadiation02GetBetterDesc,You have treated serious radiation poisoning. Continue anti-radiation medication.
+buffRadiation02GetBetterName,Treated Radiation Poisoning
+buffRadiation02UntreatedDesc,You have serious radiation poisoning. If left untreated it could lead to severe radiation poisoning which can cause death. Take anti-radiation medication as soon as possible.
+buffRadiation02UntreatedName,Radiation Poisoning
+buffRadiation03GetBetterDesc,You have treated life threatening severe radiation poisoning. Continue anti-radiation medication and avoid contact with infectious substances.
+buffRadiation03GetBetterName,Treated Severe Radiation Poisoning
+buffRadiation03UntreatedDesc,You have life threatening severe radiation poisoning. Take anti-radiation medication immediately.
+buffRadiation03UntreatedName,Severe Radiation Poisoning
+buffRadiation04Tooltip,You have died from radiation poisoning.
+buffRadiationCureDisplayDesc,You have taken anti-radiation medication which will reduce radiation poisoning that you may be suffering. You can stack anti-radiation medication to increase duration.
+buffRadiationCureDisplayName,Anti-radiation Medication
+buffRadiationGettingWorseTooltip,Your radiation poisoning will no longer heal on its own.
+
+buffRadiationResistDesc,You have taken radiation resistence medication which will reduce your chance to catch radiation poisoning. You will also take less damage from radiation emitting sources. You can stack radiation resistence medication to increase duration.
+buffRadiationResistName,Rad Z
+
+buffGhoulRadiationName,Moderate Radiation
+buffGhoulRadiationDesc,There is a source of radiation nearby. Better get away from here!
+buffGhoulRadiation2Name,Severe Radiation
+buffGhoulRadiation2Desc,You didn't get away from here and now you'll probably die!
+buffGhoulRadiationTooltip,There is a source of radiation nearby. Better turn around!
+buffGhoulRadiation2Tooltip,You are getting too close to the radiation source! Turn around or die!
+
+buffAntivenomDesc,You have taken some antivenom. It will cure any current effects and prevent new ones until it wears off.
+buffAntivenomName,Antivenom
+buffScorpionVenomDesc,You have been stung by a mutated scorpion. It will lower your max health until it wears off or you find some antivenom medicine.
+buffScorpionVenomName,Scorpion Venom
+buffScorpionVenomTooltip,You feel a little woozy. Max health lowered.
+buffHunterVenomDrainDesc,You have been stung by a mutated scorpion and are suffering from its venom. It will lower your max health until it wears off or you find some antivenom medicine.
+buffHunterVenomDrainName,Scorpion Sting
+buffHunterVenomDrainTooltip,You feel a little woozy.
+buffHunterVenomDesc,You have been stung by a hunter. It will lower your max health until it wears off or you find some antivenom medicine.
+buffHunterVenomName,Hunter Venom
+buffHunterVenomTooltip,You feel a little woozy.
+buffMosqAnemiaDesc,You have been bitten by a mutant mosquito. It will lower your max health until it wears off or you find some antivenom medicine.
+buffMosqAnemiaName,Mosquito Anemia
+buffMosqAnemiaTooltip,You feel a little woozy.
+buffMosqDrainDesc,You have been bitten by a mutant mosquito and are bleeding out.
+buffMosqDrainName,Mosquito Bite
+buffMosqDrainTooltip,You feel a little woozy.
+buffSFDesc,You have been stung by a mutated scorpionfly. It will lower your max health until it wears off or you find some antivenom medicine.
+buffSFName,Scorpionfly Venom
+buffSFTooltip,You feel a little woozy. Max health lowered.
+buffBadFoodDesc,You have consumed some food that was unfit to eat. Max health is reduced.
+buffBadFoodName,Food Poisoning
+buffBadFoodTooltip,You probably shouldn't have ate that...
+buffSnakeVenomName,Snake Venom
+buffSnakeVenomDesc,You have been bitten by a snake and it's made you sick. It will lower your max health until it wears off or you find some antivenom medicine.
+buffSnakeVenomTooltip,You don't feel so good.
+buffSicknessHeatstroke01Name,Heatstroke
+buffSicknessHeatstroke01Desc,Being out in the heat has caused you to suffer a heatstroke. Get out of the heat! Drink something cold like a cola or smoothie to try and clear it up.
+buffSicknessHeatstroke01Tooltip,The heat is getting to you...
+buffSicknessHeatstroke02Name,Severe Heatstroke
+buffSicknessHeatstroke02Desc,You didn't get out of the heat and have suffered a severe heatstroke. Get out of the heat now! Drink something cold like a cola or smoothie to try and clear it up.
+buffSicknessHeatstroke02Tooltip,Whew. Is that an oasis out there?
+buffSicknessCold01Name,Small Cold
+buffSicknessCold01Desc,Being out in the cold has given you an annoying cough. Find some antibiotics to clear it up. Vitamins will shorten its duration.
+buffSicknessCold01Tooltip,Probably shouldn't be out in the cold...
+buffSicknessPneumonia01Name,Pneumonia
+buffSicknessPneumonia01Desc,The severe cold has given you pneumonia. Find some antibiotics to cure it. Vitamins will shorten its duration.
+buffSicknessPneumonia01Tooltip,Your cough has gotten worse...
+buffSicknessPneumonia02Name,Severe Pneumonia
+buffSicknessPneumonia02Desc,You now have a severe case of pneumonia. You need to get somewhere warm and find some antibiotics quickly! Vitamins will shorten its duration.
+buffSicknessPneumonia02Tooltip,Those coughs are getting painful...
+
+buffNukaColaDesc,"The delicious taste of Nuka Cola has you feeling revitalized! Recover stamina quicker, and restore a small amount of max health and stamina. The small trace of radiation also allow for a slight movement speed boost for a limited time!"
+buffNukaColaName,Nuka Cola
+buffNukaCherryDesc,"Mmm...Nuka Cherry! Recover stamina quicker, increase melee damage, and restore a decent amount of max health and stamina. The traces of radiation also allow for a moderate movement speed boost for a limited time!"
+buffNukaCherryName,Nuka Cherry
+buffNukaQuartzDesc,"Was that expired? Too late now! Damage resistance is increased and health will regenerate, but it does make you queasy!"
+buffNukaQuartzName,Nuka Quartz
+buffNukaQuantumDesc,"Nuka Quantum has put you into overdrive! Recover stamina and health quicker, and restore a large amount of max health and stamina. The large amount of radiation also allows for a substantial movement speed boost for a limited time, but you'll probably feel it later!"
+buffNukaQuantumName,Nuka Quantum
+buffNukaQuantumSideEffectDesc,"Your body has crashed from the Quantum rush! But hey, at least your pee will glow for a week! Maybe you should lie down..."
+buffNukaQuantumSideEffectName,Quantum Side Effects
+buffNukaQuantumSideEffectTooltip,"Ugh, that doesn't feel good..."
+buffNukaQuartzSideEffectDesc,"Your body did not appreciate that! Hopefully it was worth it..."
+buffNukaQuartzSideEffectName,Quantum Side Effects
+buffNukaQuartzSideEffectTooltip,"Ugh, that doesn't feel good..."
+buffSunsetSarsaparillaDesc,"The refreshing taste of Sunset Sarsaparilla has you feeling reinvigorated! Recover stamina quicker, and restore a small amount of max health and stamina."
+buffSunsetSarsaparillaName,Sunset Sarsaparilla
+
+buffPAsetName,"Power Armor Full Set Bonus"
+buffPAsetDesc,"Wearing a full set of Power Armor gives you increased carrying capacity, increased mobility, and reduced fall damage. When adding mods to the Power Armor you may need to remove the piece and then equip it again to make sure you keep this buff."
+
+skillCombatPerksName,"Perks:"
+skillCombatPerksDesc,"Various skills to help you survive."
+attStrengthDesc,"Strength is the measure of your muscular might. Increasing Strength raises the headshot bonus and dismemberment chance with clubs, sledgehammers and tools."
+attStrengthRank01LongDesc,"Deal 200% head shot damage and have a 5% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er."
+attStrengthRank02LongDesc,"Deal 210% head shot damage and have a 6% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er. Unlocks one more space of inventory from encumbrance."
+attStrengthRank03LongDesc,"Deal 220% head shot damage and have a 9% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er. Unlocks one more space of inventory from encumbrance."
+attStrengthRank04LongDesc,"Deal 230% head shot damage and have a 12% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er. Unlocks one more space of inventory from encumbrance."
+attStrengthRank05LongDesc,"Deal 240% head shot damage and have a 15% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er. Unlocks one more space of inventory from encumbrance."
+attStrengthRank06LongDesc,"Deal 250% head shot damage and have a 18% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er. Unlocks one more space of inventory from encumbrance."
+attStrengthRank07LongDesc,"Deal 260% head shot damage and have a 21% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er. Unlocks one more space of inventory from encumbrance."
+attStrengthRank08LongDesc,"Deal 270% head shot damage and have a 3% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er. Unlocks one more space of inventory from encumbrance."
+attStrengthRank09LongDesc,"Deal 285% head shot damage and have a 3% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er. Unlocks one more space of inventory from encumbrance."
+attStrengthRank10LongDesc,"Deal 300% head shot damage and have a 30% greater chance to dismember with shotguns, clubs, sledgehammers and tools governed by Miner 69'er. Unlocks two more spaces of inventory from encumbrance."
+attPerceptionDesc,"Perception is the measure of your sensory awareness. Increasing Perception raises the handling of all weapons."
+attPerceptionRank01LongDesc,"Weapon handling is normal."
+attPerceptionRank02LongDesc,"Weapon handling is increased by 5%."
+attPerceptionRank03LongDesc,"Weapon handling is increased by 10%."
+attPerceptionRank04LongDesc,"Weapon handling is increased by 15%."
+attPerceptionRank05LongDesc,"Weapon handling is increased by 20%."
+attPerceptionRank06LongDesc,"Weapon handling is increased by 25%."
+attPerceptionRank07LongDesc,"Weapon handling is increased by 30%."
+attPerceptionRank08LongDesc,"Weapon handling is increased by 35%."
+attPerceptionRank09LongDesc,"Weapon handling is increased by 40%."
+attPerceptionRank10LongDesc,"Weapon handling is increased by 50%."
+attIntellectDesc,"Intellect is the measure of your mental ability. Increasing Intellect increases experience gained from all actions."
+attIntellectRank01LongDesc,"The amount of XP gained when performing actions is 100%."
+attIntellectRank02LongDesc,"The amount of XP gained when performing actions is increased by 3%."
+attIntellectRank03LongDesc,"The amount of XP gained when performing actions is increased by 6%."
+attIntellectRank04LongDesc,"The amount of XP gained when performing actions is increased by 9%."
+attIntellectRank05LongDesc,"The amount of XP gained when performing actions is increased by 12%."
+attIntellectRank06LongDesc,"The amount of XP gained when performing actions is increased by 15%."
+attIntellectRank07LongDesc,"The amount of XP gained when performing actions is increased by 18%."
+attIntellectRank08LongDesc,"The amount of XP gained when performing actions is increased by 21%."
+attIntellectRank09LongDesc,"The amount of XP gained when performing actions is increased by 25%."
+attIntellectRank10LongDesc,"The amount of XP gained when performing actions is increased by 30%."
+attFortitudeDesc,"Fortitude is the measure of your physical resilience. Increasing Fortitude will raise your max health."
+attFortitudeRank01LongDesc,"Max health is 100."
+attFortitudeRank02LongDesc,"Max health is increased by 5."
+attFortitudeRank03LongDesc,"Max health is increased by 10."
+attFortitudeRank04LongDesc,"Max health is increased by 15."
+attFortitudeRank05LongDesc,"Max health is increased by 20."
+attFortitudeRank06LongDesc,"Max health is increased by 25."
+attFortitudeRank07LongDesc,"Max health is increased by 30."
+attFortitudeRank08LongDesc,"Max health is increased by 35."
+attFortitudeRank09LongDesc,"Max health is increased by 40."
+attFortitudeRank10LongDesc,"Max health is increased by 50."
+attAgilityDesc,"Agility is the measure of your athletic prowess. Increasing Agility will raise your max stamina."
+attAgilityRank01LongDesc,"Max stamina is 100."
+attAgilityRank02LongDesc,"Max stamina is increased by 5."
+attAgilityRank03LongDesc,"Max stamina is increased by 10."
+attAgilityRank04LongDesc,"Max stamina is increased by 15."
+attAgilityRank05LongDesc,"Max stamina is increased by 20."
+attAgilityRank06LongDesc,"Max stamina is increased by 25."
+attAgilityRank07LongDesc,"Max stamina is increased by 30."
+attAgilityRank08LongDesc,"Max stamina is increased by 35."
+attAgilityRank09LongDesc,"Max stamina is increased by 40."
+attAgilityRank10LongDesc,"Max stamina is increased by 50."
+attsurvival,"Survival"
+attSurvivalDesc,"Survival is the measure of your will to endure. Increasing Survival will slow food and water drain."
+attSurvivalName,"Attribute: Survival"
+attSurvivalRank01Desc,"Bowman"
+attSurvivalRank01LongDesc,"Food and water consumption is normal."
+attSurvivalRank02Desc,"Smooth Talker"
+attSurvivalRank02LongDesc,"Food and water consumption is decreased by 3%."
+attSurvivalRank03Desc,"Trapper"
+attSurvivalRank03LongDesc,"Food and water consumption is decreased by 6%."
+attSurvivalRank04Desc,"Green Thumb"
+attSurvivalRank04LongDesc,"Food and water consumption is decreased by 9%."
+attSurvivalRank05Desc,"Hunter"
+attSurvivalRank05LongDesc,"Food and water consumption is decreased by 12%."
+attSurvivalRank06Desc,"Efficient Survivalist"
+attSurvivalRank06LongDesc,"Food and water consumption is decreased by 15%."
+attSurvivalRank07Desc,"Camp Chef"
+attSurvivalRank07LongDesc,"Food and water consumption is decreased by 18%."
+attSurvivalRank08Desc,"Resilient Woodsman"
+attSurvivalRank08LongDesc,"Food and water consumption is decreased by 21%."
+attSurvivalRank09Desc,"Light Footed"
+attSurvivalRank09LongDesc,"Food and water consumption is decreased by 25%."
+attSurvivalRank10Desc,"Skinner"
+attSurvivalRank10LongDesc,"Food and water consumption is decreased by 30%."
+attluck,"Luck"
+attLuckDesc,"Luck is the measure of your ability to find the good stuff. Increasing Luck will increase your loot gamestage."
+attLuckName,"Attribute: Luck"
+attLuckRank01Desc,"Rabbit's Foot"
+attLuckRank01LongDesc,"Loot gamestage is normal."
+attLuckRank02Desc,"Lucky Penny"
+attLuckRank02LongDesc,"Loot gamestage is increased by 5%."
+attLuckRank03Desc,"Wishbone"
+attLuckRank03LongDesc,"Loot gamestage is increased by 10%."
+attLuckRank04Desc,"Four-leaf Clover"
+attLuckRank04LongDesc,"Loot gamestage is increased by 15%."
+attLuckRank05Desc,"Double Rainbow"
+attLuckRank05LongDesc,"Loot gamestage is increased by 20%."
+attLuckRank06Desc,"Lucky Horseshoe"
+attLuckRank06LongDesc,"Loot gamestage is increased by 25%."
+attLuckRank07Desc,"Lucky Number Seven"
+attLuckRank07LongDesc,"Loot gamestage is increased by 30%."
+attLuckRank08Desc,"Dreamcatcher"
+attLuckRank08LongDesc,"Loot gamestage is increased by 35%."
+attLuckRank09Desc,"Odin's Acorn"
+attLuckRank09LongDesc,"Loot gamestage is increased by 40%."
+attLuckRank10Desc,"Lucky Duke Token"
+attLuckRank10LongDesc,"Loot gamestage is increased by 50%."
+perkBrawlerRank5LongDesc,"You are now a complete mixed martial artist and a registered lethal weapon. Can now craft quality 6 excellent knuckles. Deal 50% more damage and have a higher chance to explode heads with punches."
+perkPummelPeteDesc,"Specialize in knocking your foes senseless with clubs, sledges and bats."
+perkPummelPeteName,"Pummel Pete's Skullcrusher"
+perkPummelPeteRank1LongDesc,"You might not pack a punch but as a roughneck you can swing a club or sledge! Craft quality 2 poor clubs, and deal 10% more damage and attacks do 40% more damage to stunned enemies with them. Power attacks have a 60% chance to knock foes back down.\nCraft quality 2 poor sledgehammers and deal 10% more damage. 15% chance to knock down enemies with power attacks.\nUnlocks baseball bat and iron sledge crafting."
+perkPummelPeteRank2LongDesc,"You are making a name for yourself as a dangerous thug. Craft quality 3 fair clubs, deal 20% more damage, attacks do 80% more damage to stunned enemies and power attacks have a 70% chance to knock foes back down.\nCraft quality 3 fair sledgehammers and deal 20% more damage. 30% chance to knock down enemies with power attacks."
+perkPummelPeteRank3LongDesc,"You hit hard enough to be in the big leagues now. Craft quality 4 good clubs, deal 30% more damage, attacks do 120% more damage to stunned enemies and power attacks have a 80% chance to knock foes back down. Landing 5 successive hits in a short time causes the last blow to do 100% extra damage.\nCraft quality 4 good sledgehammers and deal 30% more damage. Power attacks have a 45% chance to knock down enemies and a 20% chance to knock down nearby foes."
+perkPummelPeteRank4LongDesc,"When you said stay down you meant it. Craft quality 5 great clubs, deal 40% more damage, attacks do 160% more damage to stunned enemies and power attacks have a 90% chance to knock foes back down. 4 successive hits in a short time causes the last blow to do 100% extra damage.\nCraft quality 5 great sledgehammers and deal 40% more damage. Power attacks have a 60% chance to knock down enemies and a 35% chance to knock down nearby foes."
+perkPummelPeteRank5LongDesc,"Pummel Pete once took on 50 zombies with just a club and he would be proud of you. Can now craft quality 6 excellent clubs and sledges. With clubs, now deal 50% more damage, attacks do 200% more damage to stunned enemies and power attacks have a 100% chance to knock foes back down. 3 successive hits in a short time causes the last blow to do 100% extra damage.\nWith sledges, now deal 50% more damage. Power attacks have a 75% chance to knock down enemies and a 50% chance to knock down nearby foes."
+perkJavelinMasterRank3LongDesc,"You are now a Spearman and can Craft quality 4 good spears. Spears inflict 30% more damage and have 30% more range when thrown.\nUnlocks Fish Spear crafting."
+perkJavelinMasterRank5LongDesc,"You are now a Javelin Master and if this wasn't the apocalypse you could be in the Olympics. Can now craft quality 6 excellent spear weapons. Spears do 50% more damage and have 50% more range."
+perkPackMuleRank3LongDesc,"You know exactly where everything is. Carry three additional items without being encumbered."
+perkPackMuleRank4LongDesc,"You just passed inspection, private. Carry three more items without being encumbered."
+perkPackMuleRank5LongDesc,"Now you are just showing off, you are either part mule or a strongman. Carry three more items without being encumbered."
+perkHeavyGunnerName,"Heavy Gunner"
+perkHeavyGunnerDesc,"Learn how to handle the big guns. Lowers recoil and spread on heavy weapons, such as the minigun or incinerator."
+perkHeavyGunnerRank1Desc,"Harpoon Enthusiast"
+perkHeavyGunnerRank1LongDesc,"Just don't think about your arms right now. Craft quality 2 poor heavy weapons. Heavy guns now have 5% less recoil and spread, as well as doing 5% more damage.\nUnlocks Harpoon Gun crafting."
+perkHeavyGunnerRank2Desc,"Incinerator Paladin"
+perkHeavyGunnerRank2LongDesc,"It's not that heavy, is it? Craft quality 3 fair heavy weapons. All heavy guns have 10% less recoil and spread, and do 10% more damage."
+perkHeavyGunnerRank3Desc,"Railroad Worker"
+perkHeavyGunnerRank3LongDesc,"Hold her steady! Craft quality 4 good heavy weapons. Heavy guns now have 15% less recoil and spread, and hit 15% harder.\nUnlocks Railway Rifle crafting."
+perkHeavyGunnerRank4Desc,"Minigun Marauder"
+perkHeavyGunnerRank4LongDesc,"Barely even notice it now. Craft quality 5 great heavy weapons. Big guns have 20% less recoil and spread, as well as 20% more damage."
+perkHeavyGunnerRank5Desc,"Fatman Fanatic"
+perkHeavyGunnerRank5LongDesc,"Is this thing a toy? Craft quality 6 excellent heavy weapons. Enjoy 25% less recoil and spread, and 25% more damage on all heavy weapons."
+perkMiner69rRank5LongDesc,"You are the legendary Miner 69'r and can find the juicy center of any rock faster than a horny bullfrog. Craft quality 6 excellent tools. Increase damage by 50% and block damage by 150% with any axe, pick, chainsaw or auger."
+perkSteadyAimName,"Steady Aim"
+perkSteadyAimDesc,"Learn how to do better spraying and less praying. Hip-fire accuracy is improved on all weapons."
+perkSteadyAimRank1Desc,"Loose Cannon"
+perkSteadyAimRank1LongDesc,"Gonna have to hold it better than that. All guns now have 5% less recoil and spread."
+perkSteadyAimRank2Desc,"Suppressing Fire"
+perkSteadyAimRank2LongDesc,"Still not that accurate, but it scares people at leat. All heavy guns have 10% less recoil and spread."
+perkSteadyAimRank3Desc,"New Recruit"
+perkSteadyAimRank3LongDesc,"Finally, some progress! Heavy guns now have 15% less recoil and spread."
+perkSteadyAimRank4Desc,"Steady Hands"
+perkSteadyAimRank4LongDesc,"Solid. All guns have 20% less recoil and spread."
+perkSteadyAimRank5Desc,"Never Aim"
+perkSteadyAimRank5LongDesc,"ADS? Never heard of her! Guns now have 25% less recoil and spread."
+perkArmorerName,"Armorer"
+perkArmorerDesc,"Learn how to craft various armor mods to help you survive."
+perkArmorerRank1Desc,"Tinkerer"
+perkArmorerRank1LongDesc,"Not bad for a beginner! You can now craft Insulated Liner, Cooling Mesh, Improved Fittings, and Helmet Light mods."
+perkArmorerRank2Desc,"Hobbyist"
+perkArmorerRank2LongDesc,"Duct tape can do anything! You can now craft Customized Fittings, Basic Plating, and Storage Pocket mods."
+perkArmorerRank3Desc,"Advanced Noob"
+perkArmorerRank3LongDesc,"These might keep you alive. You can now craft Reinforced Plating, Double Storage Pocket, Muffled Connectors, and Impact Bracing mods."
+perkArmorerRank4Desc,"Jury Rigger"
+perkArmorerRank4LongDesc,"Top notch work! You can now craft Bandolier, Advanced Muffled Connectors, and Water Purifier mods."
+perkArmorerRank5Desc,"MacGyver"
+perkArmorerRank5LongDesc,"Time to teach some classes with these skills! You can now craft Extra Insulation, Breathable Mesh, Tempered Plating, and Triple Storage Pocket mods."
+perkBlacksmithName,"Blacksmith"
+perkBlacksmithDesc,"Learn how to craft various melee mods to help you fend off your enemies."
+perkBlacksmithRank1Desc,"Amateur"
+perkBlacksmithRank1LongDesc,"Not bad for a beginner! You can now craft Tempered Blade, Serrated Blade, and Weighted Head mods."
+perkBlacksmithRank2Desc,"Riveter"
+perkBlacksmithRank2LongDesc,"Duct tape can do anything! You can now craft Structural Brace, Ergonomic Grip, and Fireman's Axe mods."
+perkBlacksmithRank3Desc,"Metalworker"
+perkBlacksmithRank3LongDesc,"These might keep you alive. You can now craft Barbed Wire, Fortifying Grip, Metal Spikes, and Metal Chain mods."
+perkBlacksmithRank4Desc,"Temperer"
+perkBlacksmithRank4LongDesc,"Top notch work! You can now craft Grave Digger, Bunker Buster, Wood Splitter, and Small Fuel Tank mods."
+perkBlacksmithRank5Desc,"Master Forger"
+perkBlacksmithRank5LongDesc,"Time to teach some classes with these skills! You can now craft Large Fuel Tank, Diamond Tip, Iron Breaker, and Burning Shaft mods."
+perkSteelResolveName,"Steel Resolve"
+perkSteelResolveDesc,"Hold your ground! Take less damage, deal more melee damage, and increase your resistance to stun debuffs while not moving."
+perkSteelResolveRank1Desc,"Steadfast"
+perkSteelResolveRank1LongDesc,"Hold still and focus! When not moving gain 10% melee damage, take 10% less damage, and 20% stun debuff resistance."
+perkSteelResolveRank2Desc,"Unwavering"
+perkSteelResolveRank2LongDesc,"Don't give an inch! When not moving gain 20% melee damage, take 20% less damage, and 40% stun debuff resistance."
+perkSteelResolveRank3Desc,"Still Strength"
+perkSteelResolveRank3LongDesc,"Make them come to you! When not moving gain 30% melee damage, take 30% less damage, and 60% stun debuff resistance."
+perkSteelResolveRank4Desc,"Entrenched"
+perkSteelResolveRank4LongDesc,"Steady now! When not moving gain 40% melee damage, take 40% less damage, and 80% stun debuff resistance."
+perkSteelResolveRank5Desc,"Rooted"
+perkSteelResolveRank5LongDesc,"Time to make like a tree! When not moving gain 50% melee damage, take 50% less damage, and 100% stun debuff resistance."
+perkLockPickingRank1LongDesc,"You are starting to make a name for yourself. You can pick locks 10% faster and have a 10% lower chance to break lockpicks. Craft lockpicks."
+perkLockPickingRank2LongDesc,"You are now a lock smith and few locks will keep you out. You can pick locks 20% faster and have a 20% lower chance to break lockpicks."
+perkLockPickingRank3LongDesc,"You are now a world class safe cracker. You can pick locks 30% faster and have a 30% lower chance to break lockpicks."
+perkLockPickingRank4Desc,"Heistman"
+perkLockPickingRank4LongDesc,"You could probably rob a bank in no time now. You can pick locks 40% faster and have a 40% lower chance to break lockpicks."
+perkLockPickingRank5Desc,"Tumbler Master"
+perkLockPickingRank5LongDesc,"It's like you created these locks yourself. You can pick locks 50% faster and have a 50% lower chance to break lockpicks."
+perkSalvageOperationsRank3LongDesc,"You seem to have a knack for salvaging more useful parts than the average scrapper. Craft quality 4 good salvage tools. Deal 30% more damage, harvest 60% faster and gains 60% more resources with a wrench, ratchet or impact driver.\nUnlocks ratchet crafting."
+perkSalvageOperationsRank5LongDesc,"You are king of the junk dealers and envy of the grease monkeys of the apocalypse. Craft quality 6 excellent salvage tools. Deal 50% more damage, harvest 100% faster and gains 100% more resources with a wrench, ratchet or impact driver."
+perkDeadEyeDesc,"Specialize in taking keen aim with non-automatic rifles and shotguns to waste your target with an expertly-placed bullet. One shot, one kill."
+perkDeadEyeName,"Rifleman"
+perkDeadEyeRank1LongDesc,"You can hit the broad side of a barn and do 10% more damage with rifles. Craft quality 2 poor rifles and shotguns, aim and reload 10% faster.\nUnlocks hunting rifle, double barrel, Henry, and antique shotgun crafting."
+perkDeadEyeRank2LongDesc,"You are a rifleman and can hit a large rock at 30 yards. Craft quality 3 fair rifles and shotguns. Deal 20% more damage, aim 20% faster, reload 15% faster.\nUnlocks triple barrel shotgun crafting."
+perkDeadEyeRank3LongDesc,"You are now a marksman and can hold your own. Craft quality 4 good rifles and shotguns. Deal 30% more damage , aim 32% faster, reload 20% faster and use 10% less stamina while aiming.\nKill Streak: Successive kills increase damage bonus by 10%, 20% to a maximum of 30%.\nUnlocks the Wasteland lever action rifle crafting."
+perkDeadEyeRank4LongDesc,"You are now a sharpshooter. Craft quality 5 great rifles and shotguns. Deal 40% more damage, aim 45% faster, reload 25% faster, and use 20% less stamina while aiming.\nKill Streak: Successive kills increase damage bonus by 20%, 30% to a maximum of 40%.\nUnlocks lever action rifle and pump shotgun crafting."
+perkDeadEyeRank5LongDesc,"Through all the hard training, you are now a dead eye sniper. Craft quality 6 excellent rifles and shotguns. Deal 50% more damage, aim 60% faster, reload 30% faster, and use 30% less stamina while aiming.\nKill Streak: Successive kills increase damage bonus by 30%, 40% up to a maximum of 50%.\nHits to the legs will now also slow targets temporarily."
+perkLuckyLooterRank1LongDesc,"You've got a slim chance to find better loot. Adds 5% to loot bonus for containers that you open personally. Looting is 15% faster."
+perkLuckyLooterRank2LongDesc,"Your luck is improving and no matter where you look you seem to find something good. Adds 15% to loot bonus. Looting is 30% faster."
+perkLuckyLooterRank3LongDesc,"Adds 25% to loot bonus. Looting is 45% faster."
+perkLuckyLooterRank4LongDesc,"You just seem to be blessed with finding great loot everywhere you look. Adds 35% to loot bonus. Looting is 60% faster."
+perkLuckyLooterRank5LongDesc,"The Lucky Looter. You are on a roll and the dice are loaded. Adds 40% to loot bonus. Looting is 80% faster."
+perkConcentratedFireName,"Concentrated Fire"
+perkConcentratedFireDesc,"Stay focused! Hitting your shots has improved your damage when aiming down sights."
+perkConcentratedFireRank1Desc,"One Eye Open"
+perkConcentratedFireRank1LongDesc,"You now do 5% more damage when aiming down sights."
+perkConcentratedFireRank2Desc,"Slightly Distracted"
+perkConcentratedFireRank2LongDesc,"Pay attention! Deal out 10% extra damage while ADS."
+perkConcentratedFireRank3Desc,"Perceptive"
+perkConcentratedFireRank3LongDesc,"ADS and deal 15% more damage."
+perkConcentratedFireRank4Desc,"Well Attuned"
+perkConcentratedFireRank4LongDesc,"Eyes open! You now deal 20% more damage when aiming down sights, and also have a 10% higher chance to dismember your foes."
+perkConcentratedFireRank5Desc,"Laser Focus"
+perkConcentratedFireRank5LongDesc,"Sharp as lasers, you are! Now deal 25% extra damage and and 25% higher chance to dismember enemies while ADS."
+perkDemolitionsExpertRank1LongDesc,"You are now a grenadier initiate, be careful with those explosives. Craft quality 2 poor explosive weapons. Increase damage 10%, 50% chance to stun enemies and a 5% greater chance to dismember.\nCraft pipe bombs, pressure plate and cooking pot mines."
+perkDemolitionsExpertRank2LongDesc,"Craft quality 3 fair explosive weapons. Increase damage by 20%, 100% chance to stun enemies, and a 10% greater chance to dismember.\nCraft dynamite and hubcap land mines."
+perkDemolitionsExpertRank3LongDesc,"You are now an explosives handler. Craft quality 4 good explosive weapons. Increase damage 30%, have a 33% chance to cripple enemies and a 15% greater chance to dismember.\nCraft grenades and more efficient stacks of gunpowder, as well as the M79 launcher and its ammo types."
+perkDemolitionsExpertRank4LongDesc,"You are now a Rocket Man. Craft quality 5 great explosive weapons. Increase damage 40%, have a 66% chance to cripple enemies and a 25% greater chance to dismember.\nCraft high explosive rockets and anti-personnel fragmentation rockets."
+perkDemolitionsExpertRank5LongDesc,"You make things go boom in a big way. Craft quality 6 excellent explosive weapons. Increase damage 50%, 35% greater chance to dismember. Stun lasts longer on enemies.\nCraft timed charges, contact grenades and air filter land mines, as well as the Incinerator and its ammo."
+perkNightOwlName,"Night Owl"
+perkNightOwlDesc,"You feel at home in the darkness. Gain health and skill bonuses during the night."
+perkNightOwlRank1Desc,"Owling"
+perkNightOwlRank1LongDesc,"At night your Intellect and Perception are increased by one."
+perkNightOwlRank2Desc,"Barn Owl"
+perkNightOwlRank2LongDesc,"The night sky refreshes you. Gain 10 max health at night."
+perkNightOwlRank3Desc,"Spotted Owl"
+perkNightOwlRank3LongDesc,"Gain another level of Intellect and Perception during the nighttime."
+perkNightOwlRank4Desc,"Horned Owl"
+perkNightOwlRank4LongDesc,"During the night you gain 20 total max health."
+perkNightOwlRank5Desc,"Great Gray Owl"
+perkNightOwlRank5LongDesc,"Night Predator! Gain three levels of Intellect and Perception, and boost your max health by 25.\nCrouching during the night will also activate a moderate night vision."
+perkAwarenessName,"Awareness"
+perkAwarenessDesc,"Nothing escapes your sight."
+perkAwarenessRank1Desc,"Almost Blind"
+perkAwarenessRank1LongDesc,"Enemies will show as dots on the compass up to 5m away when crouched."
+perkAwarenessRank2Desc,"Needs Glasses"
+perkAwarenessRank2LongDesc,"Enemies will show as dots on the compass up to 10m away when crouched."
+perkAwarenessRank3Desc,"Alert...ish"
+perkAwarenessRank3LongDesc,"Enemies will show as dots on the compass up to 15m away when crouched."
+perkAwarenessRank4Desc,"Never Blinking"
+perkAwarenessRank4LongDesc,"Enemies will show as dots on the compass up to 20m away when crouched."
+perkAwarenessRank5Desc,"Eagle Eye"
+perkAwarenessRank5LongDesc,"Enemies will show as dots on the compass up to 25m away when crouched."
+perkSniperName,"Sniper"
+perkSniperDesc,"Use scopes as an extension of yourself."
+perkSniperRank1Desc,"Recruit"
+perkSniperRank1LongDesc,"When aiming with a scope, use 5% less stamine while dealing 5% more damage."
+perkSniperRank2Desc,"Sport Shooter"
+perkSniperRank2LongDesc,"Use 10% less stamina and hit 10% harder when scoped in."
+perkSniperRank3Desc,"Well Trained"
+perkSniperRank3LongDesc,"Aiming with a scope uses 15% less stamina and increases damage 15%."
+perkSniperRank4Desc,"Professional"
+perkSniperRank4LongDesc,"20% less stamina and 20% more damage when using a scope."
+perkSniperRank5Desc,"Chris Kyle 2.0"
+perkSniperRank5LongDesc,"Being scoped in uses 25% less stamina and gives you a 25% damage boost."
+perkPenetratorRank2LongDesc,"Ignore 20% of armor with firearms, archery and spears.\nArmor-piercing rounds can penetrate an additional target or a block of up to 500 hit points when using Hunting, Marksman or Sniper Rifles."
+perkPenetratorRank3LongDesc,"Ignore 30% of armor with firearms, archery and spears.\nArmor-piercing rounds can penetrate two additional targets or a block of up to 750 hit points when using Hunting, Marksman or Sniper Rifles."
+perkPenetratorRank4Desc,"The Piercer"
+perkPenetratorRank4LongDesc,"Ignore 40% of armor with firearms, archery and spears.\nArmor-piercing rounds can penetrate three additional targets or a block of up to 1000 hit points when using Hunting, Marksman or Sniper Rifles."
+perkPenetratorRank5Desc,"The Penetrator"
+perkPenetratorRank5LongDesc,"Ignore 50% of armor with firearms, archery and spears.\nArmor-piercing rounds can penetrate four additional targets or a block of up to 1250 hit points when using Hunting, Marksman or Sniper Rifles."
+perkElectrocutionerRank3LongDesc,"You are getting dangerous with stun batons. You could probably knock out cattle if the zombies hadn't ate them all. Craft quality 4 good stun batons, deal 30% more damage, and stun victims 60% longer.\nUnlocks Cattle Prod crafting."
+perkElectrocutionerRank5LongDesc,"You are the last thing they see coming and an executioner with stun batons. Craft quality 6 excellent stun batons. Deal 50% more damage and stun victims 100% longer."
+perkPhysicianRank2Desc,"Nurse"
+perkPhysicianRank2LongDesc,"Medical healing items heal 40% more health over time. Gain 60% more XP using bandages, first aid bandages, first aid kits and splints. Craft items 20% faster at chemistry stations.\nCan craft painkiller, Fort Bites and steroids."
+perkPhysicianRank3Desc,"Doctor"
+perkPhysicianRank3LongDesc,"Medical healing items heal 55% more health over time. Gain 80% more XP using bandages, first aid bandages, first aid kits and splints.\nCan craft first aid kits, Recog and Rad-Z."
+perkPhysicianRank4Desc,"Surgeon"
+perkPhysicianRank4LongDesc,"Medical healing items heal 75% more health over time. Gain 100% more XP using bandages, first aid bandages, first aid kits and splints. Craft items 40% faster at chemistry stations.\nCan craft Rad-B-Gone, anivenom and antibiotics."
+perkPhysicianRank5Desc,"Miracle Worker"
+perkPhysicianRank5LongDesc,"Miracle worker. Medical healing items heal 100% more health over time. Gain 150% more XP using bandages, first aid bandages, first aid kits and splints. Craft items 50% faster at chemistry stations.\nCan craft BeZerk, Braintats, and Happy-Go-Lucky."
+perkAdvancedEngineeringRank4LongDesc,"Learn to craft shotgun turrets for short range concentrated base defense, battery banks and nail guns, as well as powered doors. Gain 35% XP from electrical trap kills.\nAll forge recipes cost 15% less, crafting Forged Steel and electrical devices costs 25% less."
+perkNewAgeCowboyName,"New Age Cowboy"
+perkNewAgeCowboyDesc,"Learn how to make and master energy weapons."
+perkNewAgeCowboyRank1Desc,"Cobbled Together"
+perkNewAgeCowboyRank1LongDesc,"Craft quality 2 poor energy weapons. Deal 10% more damage with them. Dismemberment increased by 5%. Ignore 15% of armor.\nUnlocks scrap laser pistol and ammo crafting."
+perkNewAgeCowboyRank2Desc,"Laser Gunslinger"
+perkNewAgeCowboyRank2LongDesc,"Craft quality 3 fair energy weapons. Deal 20% more damage with them. Dismemberment increased by 10%. Ignore 20% of armor.\nUnlocks laser pistol and ammo crafting."
+perkNewAgeCowboyRank3Desc,"Laser Rifleman"
+perkNewAgeCowboyRank3LongDesc,"Craft quality 4 good energy weapons. Deal 30% more damage with them. Dismemberment increased by 15%. Ignore 30% of armor.\nUnlocks laser rifle crafting."
+perkNewAgeCowboyRank4Desc,"Plasma Gunslinger"
+perkNewAgeCowboyRank4LongDesc,"Craft quality 5 great energy weapons. Deal 40% more damage with them. Dismemberment increased by 20%. Ignore 40% of armor.\nUnlocks plasma pistol and ammo crafting."
+perkNewAgeCowboyRank5Desc,"Plasma Rifleman"
+perkNewAgeCowboyRank5LongDesc,"Craft quality 6 excellent energy weapons. Deal 50% more damage with them. Dismemberment increased by 25%. Ignore 50% of armor.\nUnlocks plasma rifle and ammo crafting."
+perkChemistName,"Chemist"
+perkChemistDesc,"All the rush, with less of the crash!"
+perkChemistRank1Desc,"Light User"
+perkChemistRank1LongDesc,"Any drugs you take last 50% longer."
+perkChemistRank2Desc,"Recreational Use"
+perkChemistRank2LongDesc,"Any drugs you take last 100% longer."
+perkChemistRank3Desc,"Addicted"
+perkChemistRank3LongDesc,"Any drugs you take last 150% longer."
+perkChemistRank4Desc,"Heavy User"
+perkChemistRank4LongDesc,"Any drugs you take last 200% longer."
+perkChemistRank5Desc,"Chem Abuser"
+perkChemistRank5LongDesc,"Any drugs you take last 300% longer."
+perkGunNutName,"Gun Nut"
+perkGunNutDesc,"Learn how to make all kinds of cool mods for your guns."
+perkGunNutRank1Desc,"Basics"
+perkGunNutRank1LongDesc,"Learn how to craft Barrel Extender, Muzzle Brake, Retracting Stock, and Duckbill mods."
+perkGunNutRank2Desc,"Mod Maker"
+perkGunNutRank2LongDesc,"Learn how to craft Laser Sight, 2x Scope, Reflex Sight, Semi-Auto Trigger Group, Shotgun Choke, Shotgun Tube Extender Magazine mods."
+perkGunNutRank3Desc,"Mod Enthusiast"
+perkGunNutRank3LongDesc,"Learn how to craft 4x Scope, Suppressor, Burst Trigger Group, Bipod, Foregrip, Magazine Extender, and Flashlight mods."
+perkGunNutRank4Desc,"Mod Man"
+perkGunNutRank4LongDesc,"Learn how to craft Auto Trigger Group, Drum Magazine, Incinerator Large Tanks, Incinerator High Pressure Hoses, and Incinerator Smooth Bore Barrel mods."
+perkGunNutRank5Desc,"Modsmith"
+perkGunNutRank5LongDesc,"Learn how to craft 8x Scope, Cripple 'Em, Rad Remover, Rad Adder, and Blessed Metal mods."
+perkGreaseMonkeyRank4LongDesc,"Nothing beats the safety and warmth of a nice 4x4 truck. You can craft 4x4 truck parts, more efficient stacks of gas cans and quality 4 car batteries. Craft 4x4 truck parts 33% cheaper.\nAlso unlocks the Police Car, Old Semi, and Ice Cream Truck crafting."
+perkGreaseMonkeyRank5LongDesc,"Your tinkering desire is never satisfied and only a true genius could figure out how to take to the skies with scrap iron. Can craft gyrocopter parts and quality 5 car batteries. Craft gyrocopter parts 33% cheaper.\nAlso unlocks Vertibird crafting."
+perkHighTechName,"High Tech"
+perkHighTechDesc,"Learn how to make all kinds of cool mods for energy guns and power armor."
+perkHighTechRank1Desc,"DIY"
+perkHighTechRank1LongDesc,"Learn how to craft Power Armor Radar, Power Armor Block Buster, Power Armor Knuckles, and Overcharged Capacitor mods."
+perkHighTechRank2Desc,"Solderer"
+perkHighTechRank2LongDesc,"Learn how to craft Laser Scope, Plasma Scope, Power Armor Scuba, Power Armor Chest Plating, Power Armor Tesla Bracers, and Power Armor Gyros mods."
+perkHighTechRank3Desc,"Grinder"
+perkHighTechRank3LongDesc,"Learn how to craft Laser Splitter, Plasma Sniper Barrel, Power Armor Radar MK2, and Power Armor Jump Boost mods."
+perkHighTechRank4Desc,"Welder"
+perkHighTechRank4LongDesc,"Learn how to craft Laser Focuser, Power Armor Emergency Protocol, Power Armor Shocks, Power Armor Blood Filter, and Power Armor Impact Landing mods."
+perkHighTechRank5Desc,"CNC Operator"
+perkHighTechRank5LongDesc,"Learn how to craft Stun Baton Repulsor, Power Armor Night Vision, Power Armor Dampener, Power Armor Rad Resistant, and Power Armor Tesla Coil mods."
+perkRagingNerdName,"Raging Nerd"
+perkRagingNerdDesc,"Nerd. Is. ANGRY! When your health is low, gain damage resistance and deal more damage."
+perkRagingNerdRank1Desc,"Nerd Anger"
+perkRagingNerdRank1LongDesc,"When health is below 25%, damage output and resistance is increased by 15%."
+perkRagingNerdRank2Desc,"Nerd Rage"
+perkRagingNerdRank2LongDesc,"When health is below 25%, damage output and resistance is increased by 25%."
+perkRagingNerdRank3Desc,"Nerd Fury"
+perkRagingNerdRank3LongDesc,"When health is below 25%, damage output and resistance is increased by 35%."
+perkRagingNerdRank4Desc,"Nerd Tank"
+perkRagingNerdRank4LongDesc,"When health is below 25%, damage output and resistance is increased by 45%. Stamina regen is increased by 20%. Any kill will add 25 health."
+perkRagingNerdRank5Desc,"Nerd Hulk"
+perkRagingNerdRank5LongDesc,"When health is below 25%, damage output and resistance is increased by 50%. Stamina regen is increased by 25%. Any kill will add 35 health."
+perkTurretsRank1LongDesc,"You have some crazy innovative ideas but your implementation could use some work. Craft poor quality 2 robots, deal 10% more damage, 30% faster fire rate and reload an extra 10 rounds. Robot active range is increased from 10 to 12 meters.\nYou can deploy multiple robots but only the closest will be active.\nUnlocks Robotic Sledge crafting."
+perkTurretsRank2LongDesc,"You are taking your projects to the next level now. Craft fair quality 3 robots, deal 20% more damage, 60% faster fire rate and reload an extra 20 rounds. Robot active range is 14 meters."
+perkTurretsRank3LongDesc,"You have mastered the basics of automated weaponry. Craft good quality 4 robotics, deal 30% more damage, 90% faster fire rate and reload an extra 30 rounds. Robot active range is 16 meters."
+perkTurretsRank4LongDesc,"You must be from the year 2077. You are creating some futuristic technology. Craft great quality 5 robots, deal 40% more damage, 120% faster fire rate and reload an extra 40 rounds. Reload robot weapons 10% faster. Robot active range is 18 meters.\nTwo deployed robots can be active at once."
+perkTurretsRank5LongDesc,"You are now a top expert in robotics. Craft excellent quality 6 robots. Reload robot weapons 20% faster and reload an extra 50 rounds. Robot active range is 20 meters.\nThree deployed robots can be active at once."
+perkSexualTrexRank5Desc,"Viking Mauler"
+perkSexualTrexRank5LongDesc,"You are now a viking mauler and have risen to the highest athletic prowess possible. Reduce melee and tool stamina usage by 30% and power attacks by 60%.\nKilling blows grant 40 stamina."
+perkWellInsulatedRank2LongDesc,"You are resistant to some pretty intense weather and lose 30% less food and water when cold or overheating. Grants 15 insulation against both heat and cold."
+perkWellInsulatedRank3LongDesc,"You are resistant to some pretty intense weather and lose 45% less food and water when cold or overheating. Grants 20 insulation against both heat and cold."
+perkWellInsulatedRank4Desc,"Mostly Weather Resistant"
+perkWellInsulatedRank4LongDesc,"You are resistant to some pretty intense weather and lose 50% less food and water when cold or overheating. Grants 25 insulation against both heat and cold."
+perkWellInsulatedRank5Desc,"Extremely Weather Resistant"
+perkWellInsulatedRank5LongDesc,"You can now handle severe weather and typically could care less what the weather conditions are. You will never have the more severe stages of temperature status effects. Lose 60% less food and water when cold or overheating. Grants 30 insulation against both heat and cold."
+perkChemResistantName,"Chem Resistant"
+perkChemResistantDesc,"All the benefits, none of the addiction."
+perkChemResistantRank1Desc,"Low Tolerance"
+perkChemResistantRank1LongDesc,"You have a 20% resistance to the negative effects of drugs."
+perkChemResistantRank2Desc,"Weak Will"
+perkChemResistantRank2LongDesc,"You have a 40% resistance to the negative effects of drugs."
+perkChemResistantRank3Desc,"Moderate Tolerance"
+perkChemResistantRank3LongDesc,"You have a 60% resistance to the negative effects of drugs."
+perkChemResistantRank4Desc,"Strong Constitution"
+perkChemResistantRank4LongDesc,"You have a 80% resistance to the negative effects of drugs."
+perkChemResistantRank5Desc,"Addiction Immune"
+perkChemResistantRank5LongDesc,"You have a 100% resistance to the negative effects of drugs."
+perkSandmanName,"Sandman"
+perkSandmanDesc,"Catch them offguard and put them to sleep, quietly."
+perkSandmanRank1Desc,"Sneak Attack"
+perkSandmanRank1LongDesc,"When crouching and hidden, gain 5% damage when using a silencer."
+perkSandmanRank2Desc,"Sleep Tight"
+perkSandmanRank2LongDesc,"When crouching and hidden, gain 10% damage when using a silencer."
+perkSandmanRank3Desc,"Death Whisper"
+perkSandmanRank3LongDesc,"When crouching and hidden, gain 15% damage when using a silencer."
+perkSandmanRank4Desc,"Sweet Dreams"
+perkSandmanRank4LongDesc,"When crouching and hidden, gain 20% damage when using a silencer. There's a very small chance your attack will instantly kill your target."
+perkSandmanRank5Desc,"Angel of Death"
+perkSandmanRank5LongDesc,"When crouching and hidden, gain 25% damage when using a silencer. There's a small chance your attack will instantly kill your target."
+perkWellnessName,"Wellness"
+perkWellnessDesc,"Keep youself healthy to maximize survival chances."
+perkWellnessRank1Desc,"Active"
+perkWellnessRank1LongDesc,"Max health increased by 10."
+perkWellnessRank2Desc,"Sturdy"
+perkWellnessRank2LongDesc,"Max health increased by 20."
+perkWellnessRank3Desc,"Stout"
+perkWellnessRank3LongDesc,"Max health increased by 30."
+perkWellnessRank4Desc,"Vitamin E-fficient"
+perkWellnessRank4LongDesc,"Max health increased by 40. Also gain a very small health regen."
+perkWellnessRank5Desc,"Picture of Health"
+perkWellnessRank5LongDesc,"Max health increased by 50. Also gain a small health regen."
+perkDenseBonesName,"Dense Bones"
+perkDenseBonesDesc,"Tough up those weak bones to help prevent sprains and breaks."
+perkDenseBonesRank1Desc,"Brittle Bones"
+perkDenseBonesRank1LongDesc,"Might want to be careful still. Increase your resistance to spraining or breaking your limbs by 10%."
+perkDenseBonesRank2Desc,"Vitamin D Deficiency"
+perkDenseBonesRank2LongDesc,"Increase your resistance to limb sprains and breaks by 20%."
+perkDenseBonesRank3Desc,"Milk Drinker"
+perkDenseBonesRank3LongDesc,"Increase your resistance to spraining or breaking your limbs by 35%."
+perkDenseBonesRank4Desc,"All the Calcium"
+perkDenseBonesRank4LongDesc,"Will it break? It's a coin flip! Increase your resistance to spraining or breaking your limbs by 50%."
+perkDenseBonesRank5Desc,"Adamantium Skeleton"
+perkDenseBonesRank5LongDesc,"Call yourself Wolverine! Increase your resistance to spraining or breaking your limbs by 75%."
+perkRadResistantName,"Rad Resistant"
+perkRadResistantDesc,"A little radiation never hurt anybody."
+perkRadResistantRank1Desc,"Low Level Radiation"
+perkRadResistantRank1LongDesc,"Probably should still avoid that glowy green thing over there. Increase your resistance to radiation by 15%."
+perkRadResistantRank2Desc,"Need No Geiger"
+perkRadResistantRank2LongDesc,"Increase your resistance to radiation by 30%."
+perkRadResistantRank3Desc,"Chernobyl Vacation"
+perkRadResistantRank3LongDesc,"Haz Mat suit? Nah! Increase your resistance to radiation by 45%."
+perkRadResistantRank4Desc,"Nuclear Waste Janitor"
+perkRadResistantRank4LongDesc,"Increase your resistance to radiation by 60%."
+perkRadResistantRank5Desc,"Nuclear Winter Ready"
+perkRadResistantRank5LongDesc,"You barely even feel it anymore! Increase your resistance to radiation by 75%."
+perkEarlyBirdName,"Early Bird"
+perkEarlyBirdDesc,"Go get those worms! Gain health and skill boosts during the daytime."
+perkEarlyBirdRank1Desc,"Rise and Shine"
+perkEarlyBirdRank1LongDesc,"The sun feels so good! Increase Strength and Fortitude by one during the daylight."
+perkEarlyBirdRank2Desc,"Morning Person"
+perkEarlyBirdRank2LongDesc,"You feel the sun energizing you. During the day max health is raised by 10."
+perkEarlyBirdRank3Desc,"Afternoon Delight"
+perkEarlyBirdRank3LongDesc,"Increase your daytime Strength and Fortitude another level."
+perkEarlyBirdRank4Desc,"Sunbather"
+perkEarlyBirdRank4LongDesc,"Catch those rays! Max health is raised by another 10."
+perkEarlyBirdRank5Desc,"Solar Power"
+perkEarlyBirdRank5LongDesc,"Peak sun power! Gain three levels to Strength and Fortitude and raise max health by 25 total."
+perkDeepCutsRank3LongDesc,"You are a cut above the rest. Craft quality 4 good knives and deal 30% more damage. You can inflict up to 5 Bleeding Wounds on an enemy and a power attack inflicts 4. Glancing blows have a 40% chance to cause 1 Bleeding Wound. Enemies run 15% slower while bleeding.\nUnlocks machete crafting."
+perkDeepCutsRank5LongDesc,"You are a samurai and can make sushi out of your foes. Craft quality 6 excellent knives. Deal 50% more damage. You can inflict up to 7 Bleeding Wounds on an enemy and a power attack inflicts 5. All glancing blows cause 1 Bleeding Wound. Enemies run 20% slower while bleeding."
+perkGunslingerRank1LongDesc,"You're no Wyatt Earp but you're better than the average drifter. Craft quality 2 poor handguns, deal 10% more damage, and 5% faster fire rate.\nUnlocks 9mm pistol crafting."
+perkGunslingerRank2LongDesc,"You are making a name for yourself, outlaw. Craft quality 3 fair handguns, deal 20% more damage, and 10% faster fire rate.\nUnlocks 10mm Revolver crafting."
+perkGunslingerRank3LongDesc,"You can keep most situations under control, sheriff. Craft quality 4 good handguns, deal 30% more damage, and 15% faster fire rate. Critical Damage: 5 successive hits in a short time cause critical damage.\nUnlocks 1911 crafting."
+perkGunslingerRank4LongDesc,"You're now a gunfighter and can clear out a saloon full of rowdy bastards at the drop of a hat. Craft quality 5 great handguns, deal 40% more damage, and 20% faster fire rate. Critical Damage: 4 successive hits in a short time cause the last shot to do 100% extra damage.\nUnlocks 44 Magnum and 1921 Thompson crafting."
+perkGunslingerRank5LongDesc,"You are the fastest gunslinger in Navezgane. Craft quality 6 excellent handguns. Deal 50% more damage, 25% faster fire rate, and 30% faster reload with handguns. Critical Damage: 3 successive hits in a short time cause the last shot to do 100% extra damage."
+perkFromTheShadowsRank5LongDesc,"Hide in the shadows 65% more effectively, noises from actions are muffled 50% and sneak movement is 50% faster. Your quick feet allow you to not set off landmines.\nEnemies will search for you for up to 20 seconds."
+perkFlurryOfBlowsRank3Desc,"Crane Technique"
+perkFlurryOfBlowsRank3LongDesc,"One-handed melee attack speeds are increased by 25%. Each kill recharges stamina by 20 points."
+perkFlurryOfBlowsRank4Desc,"Wax On, Wax Off"
+perkFlurryOfBlowsRank4LongDesc,"Mister Miyagi would be proud! One-handed melee attack speeds are increased by 34%. Each kill recharges stamina by 30 points."
+perkFlurryOfBlowsRank5Desc,"Flurry of Blows"
+perkFlurryOfBlowsRank5LongDesc,"You have mastered the flurry of blows. One-handed melee attack speeds are increased by 45%. Each kill recharges stamina by 40 points."
+perkMachineGunnerRank1LongDesc,"Spray and Pray is your thing. Craft quality 2 poor machine guns. Deal 10% more damage, and 5% faster fire rate.\nUnlocks Ak47 Crafting."
+perkMachineGunnerRank2LongDesc,"You are no commando, but you do what it takes to get the job done. Craft quality 3 fair machine guns, deal 20% more damage, and 10% faster fire rate."
+perkMachineGunnerRank3LongDesc,"All the combat has sharpened your skills and you are now a soldier. Craft quality 4 good machine guns, deal 30% more damage, and 15% faster fire rate. Commando Adrenaline: Each shot scored with automatic weapons gives you 2 stamina.\nUnlocks Service Rifle crafting."
+perkMachineGunnerRank4LongDesc,"Your skill now matches the special forces. Craft quality 5 great machine guns, deal 40% more damage, and 20% faster fire rate. Commando Adrenaline: Each shot scored with automatic weapons gives you 4 stamina."
+perkMachineGunnerRank5LongDesc,"You are now the ultimate machine gunner. Craft quality 6 excellent machine guns. Deal 50% more damage, and 25% faster fire rate. Commando Adrenaline: Each shot scored with automatic weapons gives you 6 stamina."
+perkRuleOneCardioNameRank4Desc,"Professional Sprinter"
+perkRuleOneCardioNameRank4LongDesc,"Increase stamina regen by 40% when sprinting."
+perkRuleOneCardioNameRank5Desc,"Forrest Gump"
+perkRuleOneCardioNameRank5LongDesc,"Just keep running! Increase stamina regen by 50% when sprinting."
+perkRunAndGunRank3LongDesc,"You are now a deadly trigger man. Hip fire accuracy is improved by 25% and movement penalty when reloading is reduced 70%."
+perkRunAndGunRank4Desc,"Quick Reloads"
+perkRunAndGunRank4LongDesc,"Hip fire accuracy is improved by 35% and movement penalty when reloading is reduced 90%."
+perkRunAndGunRank5Desc,"Running and Gunning"
+perkRunAndGunRank5LongDesc,"Keep your distance without needing to slow down to reload! Hip fire accuracy is improved by 45% and have no movement penalty when reloading."
+perkJavelinMasterRank3LongDesc,"You are now a Spearman and can Craft quality 4 good spears. Spears inflict 30% more damage and have 30% more range when thrown.\nUnlocks Fish Spear crafting."
+perkCantTouchThisName,"Can't Touch This"
+perkCantTouchThisDesc,"It's not hammer time! Take less damage while sprinting."
+perkCantTouchThisRank1Desc,"Dodger"
+perkCantTouchThisRank1LongDesc,"As long as you keep moving you'll be fine. Take 5% less damage while sprinting."
+perkCantTouchThisRank2Desc,"Quick Feet"
+perkCantTouchThisRank2LongDesc,"Take 10% less damage while sprinting."
+perkCantTouchThisRank3Desc,"Muddy Pig"
+perkCantTouchThisRank3LongDesc,"They just can't seem to get a clean shot on you! Take 20% less damage while sprinting."
+perkCantTouchThisRank4Desc,"Greased-Up Deaf Guy"
+perkCantTouchThisRank4LongDesc,"Good luck catching you now! Take 30% less damage while sprinting."
+perkCantTouchThisRank5Desc,"Mr. Hammer"
+perkCantTouchThisRank5LongDesc,"Never stop! Take 35% less damage while sprinting."
+perkParkourRank2LongDesc,"You've pulled off some stunts, but sometimes your hospital bills are larger than your paycheck. Reduce stamina cost of jumping by 20%. Increase safe fall distance by 2 meters and jump 2 meters high."
+perkParkourRank3LongDesc,"You're an adrenaline junkie and capable of death defying acts of insanity. Reduce stamina cost of jumping by 30%. Increase safe fall distance by 4 meters and never get a broken leg when falling. Can jump 2.5 meters."
+perkParkourRank4LongDesc,"You are now a parkour master and can navigate difficult situations easily. Reduce stamina cost of jumping by 40%. Increase safe fall distance by 5 meters, can jump 3 meters higher, and never get a sprained or broken leg when falling."
+perkParkourRank5Desc,"Built Different"
+perkParkourRank5LongDesc,"You now have springs for legs and can get yourself out of almost anything. Reduce stamina cost of jumping by 50%. Increase safe fall distance by 6 meters, and you can jump 3.5 meters higher."
+perkArcheryRank3LongDesc,"All the rigorous training has turned you into a marksman with Bows. Craft quality 4 good bows, deal 30% more damage, 30% faster aim, draw and reload with bows. Unlocks compound bow and crossbow crafting."
+perkArcheryRank5LongDesc,"You have mastered archery and are now a ranger. Craft quality 6 excellent bows. Deal 50% more damage, 50% faster aim, draw and reload with bows."
+perkAnimalTrackerRank1LongDesc,"Crouch down and use your keen eyesight to find the tracks of small animals like rabbits, snakes or chickens up to 30m away.\nTracked animals are marked on your compass and map."
+perkAnimalTrackerRank2LongDesc,"Your hawk like senses can detect deer and boars as well as sneaky predators like wolves or coyotes up to 60m away."
+perkAnimalTrackerRank3LongDesc,"Become the ultimate tracker. Your senses are unparalleled. You can detect predators like mountain lions or bears up to 90m away."
+perkAnimalTrackerRank4Desc,"Eagle Eye Tracker"
+perkAnimalTrackerRank4LongDesc,"You see everything! You can detect animals from 120m away."
+perkAnimalTrackerRank5Desc,"Master Tracker"
+perkAnimalTrackerRank5LongDesc,"You can smell them before they smell you. Track animals up to 150m away."
+perkLivingOffTheLandRank1LongDesc,"Harvest double the amount from wild or planted crops. Craft seeds for Goldenrod, Yucca, and Cotton.\nFarm plots cost 30% less to craft."
+perkLivingOffTheLandRank2LongDesc,"You can craft seeds for Chrysanthemum, Blueberries, and Hops.\nFarm plots cost 50% less to craft."
+perkLivingOffTheLandRank3LongDesc,"Harvest 2.5 times more from wild or planted crops. Can now craft seeds for Aloe, Mushrooms, and Corn."
+perkLivingOffTheLandRank4Desc,"Green Thumb"
+perkLivingOffTheLandRank4LongDesc,"Craft Potato, Coffee, and Pumpkin seeds."
+perkLivingOffTheLandRank5Desc,"One With Nature"
+perkLivingOffTheLandRank5LongDesc,"Harvest triple the amount from wild or planted crops. Craft Super Corn and Snowberry seeds."
+perkTheHuntsmanRank1LongDesc,"You are on the path of the huntsman. Harvest 20% more resources from animals using any bladed tool or weapon. Deal 10% more damage to animals."
+perkTheHuntsmanRank2LongDesc,"You are becoming adept at skinning and harvesting meat. Harvest 40% more resources from animals using any bladed tool or weapon. Deal 20% more damage to animals."
+perkTheHuntsmanRank3LongDesc,"Living in the wild is becoming second nature to you. Harvest 60% more resources from animals using any bladed tool or weapon. Deal 30% more damage to animals."
+perkTheHuntsmanRank4LongDesc,"You know exactly how to get the perfect cuts. Harvest 80% more resources from animals using any bladed tool or weapon. Deal 40% more damage to animals."
+perkTheHuntsmanRank5LongDesc,"You are a true mountain man and let nothing go to waste. Harvest 100% more resources from animals using any bladed tool or weapon. Deal 50% more damage to animals."
+perkMasterChefRank2LongDesc,"Just like grandma used to make, tasty hearty meals that fill you up for days. Craft steak and potatoes, meat stew, vegetable stew, blueberry and snowberry pie and several pumpkin dishes. Wasteland specialties include Grilled Hound Chops and Scrambled Hunter Eggs. Cook 20% faster."
+perkMasterChefRank3LongDesc,"Learn how to make nutritious pot luck meals from canned goods. Craft Sham Chowder, Hobo Stew, Chili dogs and Fish Tacos. Wasteland specialties include Scorpion Omelette, Scorpionfly Filet and Hunter Steak. Wash them down with Yucca Juice or Snowberry Smoothies and Beer. Cook 30% faster."
+perkMasterChefRank4LongDesc,"Cook for an army by making Gumbo Stew, Shepards Pie, Spaghetti and Tuna Gravy on Toast. Wasteland specialties include Scorpion Filet and Mosquito Steak. Cook 40% faster. Use 20% less of a recipe's main ingredients."
+perkMasterChefRank5LongDesc,"Unlocks the Full Course Meal as well as Grandpa's ass kicking recipes.\nLearn grandpa's secret recipes that boost stats and attributes! Cook 50% faster."
+perkInfiltratorRank1LongDesc,"You are now a mole and can move through dangerous traps easier.  Loose board traps and land mines trigger half a second slower. Take 10% less damage from land mines."
+perkInfiltratorRank2LongDesc,"You are now a trespasser and move with confidence through dangerous settings. Loose board traps and land mines trigger 1 second slower. Take 20% less damage from land mines."
+perkInfiltratorRank3LongDesc,"You are known as The Infiltrator. Loose board traps and land mines trigger 1.5 seconds slower. Take 30% less damage from land mines."
+perkInfiltratorRank4Desc,"Assassin"
+perkInfiltratorRank4LongDesc,"You are now an assassin and move with confidence through dangerous settings. Loose board traps and land mines trigger 2 seconds slower. Take 40% less damage from land mines."
+perkInfiltratorRank5Desc,"Ghost"
+perkInfiltratorRank5LongDesc,"You move like a ghost and you can safely navigate the most dangerous minefields. Loose board traps and land mines trigger 2.5 seconds slower. Take 50% less damage from land mines. Can pick up land mines."
+perkCannibalName,"Cannibal"
+perkCannibalDesc,"It is an apocalypse, so you gotta do what you must to survive..."
+perkCannibalRank1Desc,"What's Wrong With You?"
+perkCannibalRank1LongDesc,"Consuming raw human meat will restore a small amount of food and health."
+perkCannibalRank2Desc,"People Eater"
+perkCannibalRank2LongDesc,"Consuming raw human or ghoul meat will restore some food and health."
+perkCannibalRank3Desc,"Tastes Like Chicken"
+perkCannibalRank3LongDesc,"Consuming raw human, ghoul, or mutant meat will restore more food and health."
+perkCannibalRank4Desc,"You Gonna Eat That?"
+perkCannibalRank4LongDesc,"Consuming raw human, ghoul, or mutant meat will restore even more food and health."
+perkCannibalRank5Desc,"Cannibal Lecter"
+perkCannibalRank5LongDesc,"Consuming raw human, ghoul, or mutant meat will restore a good amount food and health."
+perkDukeDiscovererName,"Duke Discoverer"
+perkDukeDiscovererDesc,"You have a keen eye when it comes to finding Dukes. Find more of them in loot."
+perkDukeDiscovererRank1Desc,"Penny Pincher"
+perkDukeDiscovererRank1LongDesc,"Find 10% more Dukes in loot."
+perkDukeDiscovererRank2Desc,"Tightwad"
+perkDukeDiscovererRank2LongDesc,"Find 20% more Dukes in loot."
+perkDukeDiscovererRank3Desc,"Scrooge"
+perkDukeDiscovererRank3LongDesc,"Find 30% more Dukes in loot."
+perkDukeDiscovererRank4Desc,"Coin Collector"
+perkDukeDiscovererRank4LongDesc,"Find 40% more Dukes in loot."
+perkDukeDiscovererRank5Desc,"Dukegrubber"
+perkDukeDiscovererRank5LongDesc,"Find 50% more Dukes in loot."
+perkAmmoJunkieName,"Ammo Junkie"
+perkAmmoJunkieDesc,"You'll need all the ammo you can scrounge up. Find more of it in loot."
+perkAmmoJunkieRank1Desc,"Ammo Acquirer"
+perkAmmoJunkieRank1LongDesc,"Find 10% more ammo in loot."
+perkAmmoJunkieRank2Desc,"Bullet Bandit"
+perkAmmoJunkieRank2LongDesc,"Find 20% more ammo in loot."
+perkAmmoJunkieRank3Desc,"Cartridge Connoisseur"
+perkAmmoJunkieRank3LongDesc,"Find 30% more ammo in loot."
+perkAmmoJunkieRank4Desc,"Munition Moocher"
+perkAmmoJunkieRank4LongDesc,"Find 40% more ammo in loot."
+perkAmmoJunkieRank5Desc,"Round Wrangler"
+perkAmmoJunkieRank5LongDesc,"Find 50% more ammo in loot."
+perkTreasureHunterRank1LongDesc,"For every 8 blocks dug up the treasure search radius is reduced by 1m. Without the perk you have to dig up 10 blocks each.\nFind 10% more items in buried treasure."
+perkTreasureHunterRank2LongDesc,"For every 7 blocks dug up the treasure search radius is reduced by 1m.\nFind 20% more items in buried treasure."
+perkTreasureHunterRank3LongDesc,"For every 5 blocks dug up the treasure search radius is reduced by 1m.\nFind 30% more items in buried treasure."
+perkTreasureHunterRank4Desc,"Fortune Finder"
+perkTreasureHunterRank4LongDesc,"For every 3 blocks dug up the treasure search radius is reduced by 1m.\nFind 40% more items in buried treasure."
+perkTreasureHunterRank5Desc,"Booty Bandit"
+perkTreasureHunterRank5LongDesc,"For every 1 block dug up the treasure search radius is reduced by 1m.\nFind 50% more items in buried treasure."
+perkSploderName,"Sploder"
+perkSploderDesc,"Increase your chances of taking off enemies limbs."
+perkSploderRank1Desc,"Arm Amputater"
+perkSploderRank1LongDesc,"Gain a 5% higher chance to dismember arms and legs."
+perkSploderRank2Desc,"Crawler Creator"
+perkSploderRank2LongDesc,"Gain a 10% higher chance to dismember arms and legs."
+perkSploderRank3Desc,"Limb Lopper"
+perkSploderRank3LongDesc,"Gain a 15% higher chance to dismember arms and legs. Deal an additional 5% damage. Also, you now have a 5% chance to knockdown an enemy you dismember."
+perkSploderRank4Desc,"Bloody Mess"
+perkSploderRank4LongDesc,"Gain a 20% higher chance to dismember arms and legs. Deal an additional 10% damage. Also, you now have a 10% chance to knockdown an enemy you dismember."
+perkSploderRank5Desc,"Sploder"
+perkSploderRank5LongDesc,"Gain a 25% higher chance to dismember arms and legs. Deal an additional 15% damage. Also, you now have a 15% chance to knockdown an enemy you dismember."
+perkIgnoranceIsBlissName,"Ignorance is Bliss"
+perkIgnoranceIsBlissDesc,"You're not dumb, just...different. Randomly receive a buff that increase XP gained. The lower your Intellect, the more likely it is to happen."
+perkIgnoranceIsBlissRank1Desc,"Astute Simpleton"
+perkIgnoranceIsBlissRank1LongDesc,"Whenever the buff is active, gain 50% more XP."
+perkIgnoranceIsBlissRank2Desc,"Gifted Dimwit"
+perkIgnoranceIsBlissRank2LongDesc,"Whenever the buff is active, gain 100% more XP."
+perkIgnoranceIsBlissRank3Desc,"Moronic Sage"
+perkIgnoranceIsBlissRank3LongDesc,"Whenever the buff is active, gain 150% more XP."
+perkIgnoranceIsBlissRank4Desc,"Slow Guru"
+perkIgnoranceIsBlissRank4LongDesc,"Whenever the buff is active, gain 200% more XP."
+perkIgnoranceIsBlissRank5Desc,"Idiot Savant"
+perkIgnoranceIsBlissRank5LongDesc,"Whenever the buff is active, gain 300% more XP. There's a 33% chance you'll also receive 300% XP for any kills for 60 seconds."
+perkCriticalStrikeName,"Critical Strike"
+perkCriticalStrikeDesc,"Learn the importance of Rule #2. Increases headshot damage"
+perkCriticalStrikeRank1Desc,"One Shot"
+perkCriticalStrikeRank1LongDesc,"Always go for the head. Deal 10% extra headshot damage."
+perkCriticalStrikeRank2Desc,"Right Between the Eyes"
+perkCriticalStrikeRank2LongDesc,"Deal 20% extra headshot damage."
+perkCriticalStrikeRank3Desc,"Executioner"
+perkCriticalStrikeRank3LongDesc,"Best way to save ammo is to make the shot count. Deal 30% extra headshot damage."
+perkCriticalStrikeRank4Desc,"Aim for the Head"
+perkCriticalStrikeRank4LongDesc,"Deal 40% extra headshot damage."
+perkCriticalStrikeRank5Desc,"Double Tap"
+perkCriticalStrikeRank5LongDesc,"You've taken Rule #2 to heart. Deal 50% extra headshot damage."
+perkDaringAdventurerRank1LongDesc,"Risking your neck every day has its advantages. Get an additional 10% more dukes for quest rewards."
+perkDaringAdventurerRank2LongDesc,"The traders know you can get the job done, plunderer. Get an additional choice for quest rewards and 15% more dukes."
+perkDaringAdventurerRank3LongDesc,"You've made a name for yourself as a mercenary for hire. Get two additional choices for quest rewards and 20% more dukes."
+perkDaringAdventurerRank4LongDesc,"You are the daring adventurer and get some of the best rewards for your services. You can now choose two quest rewards and get 25% more dukes."
+perkDaringAdventurerRank5Desc,"Master Adventurer"
+perkDaringAdventurerRank5LongDesc,"Task master! You now get three additional choices for rewards and can choose three rewards total. You'll also nab 30% more dukes for your trouble."
+perkDeathSprintName,"Death Sprint"
+perkDeathSprintDesc,"Become Death itself! The rush of a kill has a chance to fully restore your stamina."
+perkDeathSprintRank1Desc,"Thanatos"
+perkDeathSprintRank1LongDesc,"You feed power from killing. There's a 10% chance to fully restore your stamina from a kill."
+perkDeathSprintRank2Desc,"Azrael"
+perkDeathSprintRank2LongDesc,"Refreshing! You now have a 15% chance to regain stamina"
+perkDeathSprintRank3Desc,"Wild Hunt"
+perkDeathSprintRank3LongDesc,"Collect those souls! Each kill gives you a 20% chance to restore your stamina."
+perkDeathSprintRank4Desc,"Pale Horseman"
+perkDeathSprintRank4LongDesc,"Who's that rider? Death! You have gained a 25% chance to recover all stamina from a kill."
+perkDeathSprintRank5Desc,"Grim Reaper"
+perkDeathSprintRank5LongDesc,"Ferry those souls to the afterlife...and take their energy! Upon landing a killing blow you now have a 30% chance to fully recover your stamina."
+perkGoldenBulletName,"Golden Bullet"
+perkGoldenBulletDesc,"Sometimes it only takes one bullet."
+perkGoldenBulletRank1Desc,"Better to be Lucky"
+perkGoldenBulletRank1LongDesc,"When using a gun, you have a 1% chance to one-shot your target."
+perkGoldenBulletRank2Desc,"One Shot, One Kill"
+perkGoldenBulletRank2LongDesc,"You now have a 2% chance to instakill your target."
+perkGoldenBulletRank3Desc,"Luck of the Draw"
+perkGoldenBulletRank3LongDesc,"You now own a 3% chance to put your target down in one shot."
+perkGoldenBulletRank4Desc,"Only Need One in the Chamber"
+perkGoldenBulletRank4LongDesc,"A 4% chance to one-shot your target is now yours."
+perkGoldenBulletRank5Desc,"007"
+perkGoldenBulletRank5LongDesc,"The man with the Golden Bullet! You now have a 5% to instakill your target."
+perkRicochetName,"Ricochet"
+perkRicochetDesc,"You're rubber and they're glue! When enemies are above 20% health, gain a small chance to reflect back some of their attacks to damage them. If the ricochet kills them though, you will not gain XP from their death."
+perkRicochetRank1Desc,"Reflector"
+perkRicochetRank1LongDesc,"You have a very small chance to reflect 10 damage back to your attacker."
+perkRicochetRank2Desc,"Mirrorer"
+perkRicochetRank2LongDesc,"You now have a very small chance to reflect back 20 damage."
+perkRicochetRank3Desc,"Return to Sender"
+perkRicochetRank3LongDesc,"There is a small chance to reflect 30 damage back to you attacker."
+perkRicochetRank4Desc,"Reverse Card"
+perkRicochetRank4LongDesc,"Gain a small chance to reflect back 40 damage."
+perkRicochetRank5Desc,"Rubber Skin"
+perkRicochetRank5LongDesc,"You now have a slightly higher chance to reflect 50 damage. Also gain a very small chance to ricochet back and instantly kill whatever attacked you."
+bookSPIFSALStength,"You're SPIFSAL!(Strength)"
+bookSPIFSALStengthDesc,"Read these to gain a level in this attribute. You can only read a total of 21 SPIFSAL books, so choose wisely as it's the main way to raise your attributes now."
+bookSPIFSALPerception,"You're SPIFSAL!(Perception)"
+bookSPIFSALPerceptionDesc,"Read these to gain a level in this attribute. You can only read a total of 21 SPIFSAL books, so choose wisely as it's the main way to raise your attributes now."
+bookSPIFSALIntellect,"You're SPIFSAL!(Intellect)"
+bookSPIFSALIntellectDesc,"Read these to gain a level in this attribute. You can only read a total of 21 SPIFSAL books, so choose wisely as it's the main way to raise your attributes now."
+bookSPIFSALFortitude,"You're SPIFSAL!(Fortitude)"
+bookSPIFSALFortitudeDesc,"Read these to gain a level in this attribute. You can only read a total of 21 SPIFSAL books, so choose wisely as it's the main way to raise your attributes now."
+bookSPIFSALAgility,"You're SPIFSAL!(Agility)"
+bookSPIFSALAgilityDesc,"Read these to gain a level in this attribute. You can only read a total of 21 SPIFSAL books, so choose wisely as it's the main way to raise your attributes now."
+bookSPIFSALSurvival,"You're SPIFSAL!(Survival)"
+bookSPIFSALSurvivalDesc,"Read these to gain a level in this attribute. You can only read a total of 21 SPIFSAL books, so choose wisely as it's the main way to raise your attributes now."
+bookSPIFSALLuck,"You're SPIFSAL!(Luck)"
+bookSPIFSALLuckDesc,"Read these to gain a level in this attribute. You can only read a total of 21 SPIFSAL books, so choose wisely as it's the main way to raise your attributes now."
+bookSPIFSALBundle,"SPIFSAL Starter Bundle"
+bookSPIFSALBundleDesc,"Bundle containing 9 of each SPIFSAL book for attribute selection at the beginning of a game."
+bookLightArmor1,"Light Armor Training"
+bookLightArmor1Desc,"Reading this will help you learn to effectively manage Light Armor. Lessens stamina usage, increases mobility, and makes your armor last longer. Can be read up to five times."
+bookHeavyArmor1,"Heavy Armor Training"
+bookHeavyArmor1Desc,"Reading this will help you learn to effectively manage Heavy Armor. Lessens stamina usage, increases mobility, and makes your armor last longer. Can be read up to five times."
+perkShotgunMessiahSlugsDesc,"You can craft shotgun slugs and magnum buckshot."
+perkShotgunMessiahSlugsLongDesc,"Shotgun Shell Upgrade: Magnum Buckshot has greater knockdown power than regular shells and Slugs are like huge bullets that travel much further than buckshot. You can craft magnum bukcshot and shotgun slugs."
+noteDuke01,"A Note Found in the Wasteland"
+noteDuke01Desc,"Welcome, Survivor! You'll find a bundle of SPIFSAL books on you that can be used to set your attributes. You are limited to reading 21 books total and you can no longer use skill points to level up attributes themselves, so choose wisely!"
+paStatueStrengthI,"Power Armor Statue - Strength"
+paStatueStrengthIDesc,"Sometimes brute force is the best answer."
+paStatuePerceptionI,"Power Armor Statue - Perception"
+paStatuePerceptionIDesc,"Observe everything, miss nothing."
+paStatueIntellectI,"Power Armor Statue - Intellect"
+paStatueIntellectIDesc,"The quest for knowledge is endless."
+paStatueFortitudeI,"Power Armor Statue - Fortitude"
+paStatueFortitudeIDesc,"Never give up. Outlast everything."
+paStatueSurvivalI,"Power Armor Statue - Survival"
+paStatueSurvivalIDesc,"Desperate times, desperate measures and all that jazz."
+paStatueAgilityI,"Power Armor Statue - Agility"
+paStatueAgilityIDesc,"Being able to dance around danger is invaluable."
+paStatueLuckI,"Power Armor Statue - Luck"
+paStatueLuckIDesc,"Sometimes you just need things to go your way."
+paStatueStrength,"Power Armor Statue - Strength"
+paStatuePerception,"Power Armor Statue - Perception"
+paStatueIntellect,"Power Armor Statue - Intellect"
+paStatueFortitude,"Power Armor Statue - Fortitude"
+paStatueSurvival,"Power Armor Statue - Survival"
+paStatueAgility,"Power Armor Statue - Agility"
+paStatueLuck,"Power Armor Statue - Luck"
+paStatueRandomHelper,Power Armor Statue - Helper Block
+paStatueRandomHelperDesc,Will spawn a random PA statue.
+reqLuckLevel01,Luck Level 1
+reqLuckLevel02,Luck Level 2
+reqLuckLevel03,Luck Level 3
+reqLuckLevel04,Luck Level 4
+reqLuckLevel05,Luck Level 5
+reqLuckLevel06,Luck Level 6
+reqLuckLevel07,Luck Level 7
+reqLuckLevel08,Luck Level 8
+reqLuckLevel09,Luck Level 9
+reqLuckLevel10,Luck Level 10
+reqSurvivalLevel01,Survival Level 1
+reqSurvivalLevel02,Survival Level 2
+reqSurvivalLevel03,Survival Level 3
+reqSurvivalLevel04,Survival Level 4
+reqSurvivalLevel05,Survival Level 5
+reqSurvivalLevel06,Survival Level 6
+reqSurvivalLevel07,Survival Level 7
+reqSurvivalLevel08,Survival Level 8
+reqSurvivalLevel09,Survival Level 9
+reqSurvivalLevel10,Survival Level 10
+reqPlayerLevel01,Player Level 1
+reqPlayerLevel02,Player Level 2
+reqPlayerLevel03,Player Level 3
+reqPlayerLevel04,Player Level 4
+reqPlayerLevel05,Player Level 5
+reqPlayerLevel06,Player Level 6
+reqPlayerLevel07,Player Level 7
+reqPlayerLevel08,Player Level 8
+reqPlayerLevel09,Player Level 9
+reqPlayerLevel10,Player Level 10
+reqPlayerLevel11,Player Level 11
+reqPlayerLevel12,Player Level 12
+reqPlayerLevel13,Player Level 13
+reqPlayerLevel14,Player Level 14
+reqPlayerLevel15,Player Level 15
+reqPlayerLevel16,Player Level 16
+reqPlayerLevel17,Player Level 17
+reqPlayerLevel18,Player Level 18
+reqPlayerLevel19,Player Level 19
+reqPlayerLevel20,Player Level 20
+reqPlayerLevel21,Player Level 21
+reqPlayerLevel22,Player Level 22
+reqPlayerLevel23,Player Level 23
+reqPlayerLevel24,Player Level 24
+reqPlayerLevel25,Player Level 25
+reqPlayerLevel26,Player Level 26
+reqPlayerLevel27,Player Level 27
+reqPlayerLevel28,Player Level 28
+reqPlayerLevel29,Player Level 29
+reqPlayerLevel30,Player Level 30
+reqPlayerLevel31,Player Level 31
+reqPlayerLevel32,Player Level 32
+reqPlayerLevel33,Player Level 33
+reqPlayerLevel34,Player Level 34
+reqPlayerLevel35,Player Level 35
+reqPlayerLevel36,Player Level 36
+reqPlayerLevel37,Player Level 37
+reqPlayerLevel38,Player Level 38
+reqPlayerLevel39,Player Level 39
+reqPlayerLevel40,Player Level 40
+reqPlayerLevel41,Player Level 41
+reqPlayerLevel42,Player Level 42
+reqPlayerLevel43,Player Level 43
+reqPlayerLevel44,Player Level 44
+reqPlayerLevel45,Player Level 45
+reqPlayerLevel46,Player Level 46
+reqPlayerLevel47,Player Level 47
+reqPlayerLevel48,Player Level 48
+reqPlayerLevel49,Player Level 49
+reqPlayerLevel50,Player Level 50
+reqPlayerLevel51,Player Level 51
+reqPlayerLevel52,Player Level 52
+reqPlayerLevel53,Player Level 53
+reqPlayerLevel54,Player Level 54
+reqPlayerLevel55,Player Level 55
+reqPlayerLevel56,Player Level 56
+reqPlayerLevel57,Player Level 57
+reqPlayerLevel58,Player Level 58
+reqPlayerLevel59,Player Level 59
+reqPlayerLevel60,Player Level 60
+reqPlayerLevel61,Player Level 61
+reqPlayerLevel62,Player Level 62
+reqPlayerLevel63,Player Level 63
+reqPlayerLevel64,Player Level 64
+reqPlayerLevel65,Player Level 65
+reqPlayerLevel66,Player Level 66
+reqPlayerLevel67,Player Level 67
+reqPlayerLevel68,Player Level 68
+reqPlayerLevel69,Player Level 69
+reqPlayerLevel70,Player Level 70
+reqPlayerLevel71,Player Level 71
+reqPlayerLevel72,Player Level 72
+reqPlayerLevel73,Player Level 73
+reqPlayerLevel74,Player Level 74
+reqPlayerLevel75,Player Level 75
+reqPlayerLevel76,Player Level 76
+reqPlayerLevel77,Player Level 77
+reqPlayerLevel78,Player Level 78
+reqPlayerLevel79,Player Level 79
+reqPlayerLevel80,Player Level 80
+reqPlayerLevel81,Player Level 81
+reqPlayerLevel82,Player Level 82
+reqPlayerLevel83,Player Level 83
+reqPlayerLevel84,Player Level 84
+reqPlayerLevel85,Player Level 85
+reqPlayerLevel86,Player Level 86
+reqPlayerLevel87,Player Level 87
+reqPlayerLevel88,Player Level 88
+reqPlayerLevel89,Player Level 89
+reqPlayerLevel90,Player Level 90
+reqPlayerLevel91,Player Level 91
+reqPlayerLevel92,Player Level 92
+reqPlayerLevel93,Player Level 93
+reqPlayerLevel94,Player Level 94
+reqPlayerLevel95,Player Level 95
+reqPlayerLevel96,Player Level 96
+reqPlayerLevel97,Player Level 97
+reqPlayerLevel98,Player Level 98
+reqPlayerLevel99,Player Level 99
+reqPlayerLevel100,Player Level 100
