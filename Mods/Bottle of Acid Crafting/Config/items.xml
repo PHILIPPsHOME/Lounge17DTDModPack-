@@ -1,0 +1,5 @@
+<configs>
+    <append xpath="/items/item[@name='resourceAcid']">
+		<property name="Group" value="Resources,Chemicals,CFChemicals"/>
+	</append>
+</configs>
